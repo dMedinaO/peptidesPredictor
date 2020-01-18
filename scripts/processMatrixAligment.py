@@ -45,7 +45,32 @@ for i in range(len(matrixData[0])):#columns
     matrixDataT.append(rowData)
 
 dataExport = pd.DataFrame(matrixDataT, columns=id_pos)
-dataExport['seqID'] = listOption
+dataExport['option'] = listOption
 
-exportName = pathOutput+"exportAligment_analysis_"+family+".csv"
 dataExport.to_csv(pathOutput+"exportAligment_analysis_"+family+".csv", index=False)
+
+#por cada posicion, obtenemos la mayor preferencia segun el valor de % existente en las opciones agregadas...
+maxFrequence = []
+elementWithMax = []
+
+maxFrequence.append("Frequence")
+elementWithMax.append("optionValue")
+
+for pos in id_pos:
+    maxData = max(dataExport[pos])
+    maxFrequence.append(maxData)
+
+    #buscamos que opcion presenta la maxima frecuencia
+    option = 0
+    for i in range(len(dataExport[pos])):
+        if dataExport[pos][i] == maxData:
+            option = dataExport['option'][i]
+            break
+    elementWithMax.append(option)
+
+header = id_pos
+header.insert(0, 'Info')
+
+dataExport2 = pd.DataFrame([maxFrequence, elementWithMax], columns=header)
+
+dataExport2.to_csv(pathOutput+"exportAligment_analysis_summary_"+family+".csv", index=False)
