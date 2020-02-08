@@ -1,0 +1,508 @@
+,algorithm,params,groups,calinski_harabaz_score,silhouette_score
+1,K-Means,K = 2,2,931.9620189920366,0.9281906972541517
+2,K-Means,K = 3,3,842.7245557952698,0.9172004868444534
+3,K-Means,K = 4,4,969.2043120830351,0.9113326393075648
+4,K-Means,K = 5,5,1149.6343013599226,0.8873944324793568
+5,K-Means,K = 6,6,1289.4181127621257,0.8846799853341949
+6,K-Means,K = 7,7,1389.222714607741,0.885783450540549
+7,K-Means,K = 8,8,1512.8689578769477,0.8461596082357384
+8,K-Means,K = 9,9,1453.9018899575772,0.8436002192565848
+9,K-Means,K = 10,10,1429.4373340454395,0.7357444437563789
+10,K-Means,K = 11,11,1420.542296001127,0.7377501944466011
+11,K-Means,K = 12,12,1447.8918113972554,0.7503436148716075
+12,K-Means,K = 13,13,1444.1304992067828,0.7612598867456374
+13,K-Means,K = 14,14,1476.8996987082246,0.7498420831851882
+14,K-Means,K = 15,15,1470.6041088008571,0.7497519748377831
+15,K-Means,K = 16,16,1521.5758039961472,0.5888096576777313
+16,K-Means,K = 17,17,1561.5312317944843,0.5963686694991064
+17,K-Means,K = 18,18,1585.75340304362,0.7233756871561139
+18,K-Means,K = 19,19,1637.8707298927243,0.5660747350169177
+19,K-Means,K = 20,20,1698.5079341630042,0.5652673438551409
+20,K-Means,K = 21,21,1705.8954905787375,0.5628044437203618
+21,K-Means,K = 22,22,1766.398670367022,0.5715447154840589
+22,K-Means,K = 23,23,1871.811932468011,0.5633894846598072
+23,K-Means,K = 24,24,1812.3524384928703,0.5687606299463587
+24,K-Means,K = 25,25,2039.5426153180736,0.5579757981458959
+25,K-Means,K = 26,26,2080.262047980977,0.5794458882577656
+26,K-Means,K = 27,27,2148.62972181479,0.5640955895603686
+27,K-Means,K = 28,28,2354.7140698003755,0.5662069391300127
+28,K-Means,K = 29,29,2459.554649682698,0.5657899185908859
+29,MeanShift,Default,5,231.7788250978026,0.7431012797863028
+30,DBSCAN,Default,2,114.44030206111404,0.6709328900178475
+31,AffinityPropagation,Default,92,8850.66630061369,0.23522577677988868
+32,Birch,K = 2,2,896.9763252749723,0.9281830812062095
+33,Birch,K = 3,3,757.8161813352307,0.9226977499608192
+34,Birch,K = 4,4,838.0787351411461,0.9026182686954146
+35,Birch,K = 5,5,1149.061458948224,0.8866296765559103
+36,Birch,K = 6,6,1264.234991205223,0.8878396279495553
+37,Birch,K = 7,7,1355.5140400164369,0.8889333120191829
+38,Birch,K = 8,8,1421.0074127905907,0.8605929780949803
+39,Birch,K = 9,9,1358.1779033620762,0.8580228269491398
+40,Birch,K = 10,10,1311.9568922372127,0.8567060455586077
+41,Birch,K = 11,11,1438.2005009496813,0.7474580732829362
+42,Birch,K = 12,12,1444.084615071271,0.7484565285570033
+43,Birch,K = 13,13,1469.0975607725077,0.7488151607228443
+44,Birch,K = 14,14,1472.258253559129,0.7479525880632917
+45,Birch,K = 15,15,1496.343523733197,0.7280599804547716
+46,Birch,K = 16,16,1531.3342513327361,0.7262672056060274
+47,Birch,K = 17,17,1555.4957408056353,0.7270025304480681
+48,Birch,K = 18,18,1590.6746175220978,0.7284866463240364
+49,Birch,K = 19,19,1627.4153728106241,0.7281963603541902
+50,Birch,K = 20,20,1673.1426766289403,0.729236955535158
+51,Birch,K = 21,21,1723.437657702768,0.7354011947678901
+52,Birch,K = 22,22,1763.1972330161611,0.7382426117436335
+53,Birch,K = 23,23,1809.2676605480324,0.7372434132359944
+54,Birch,K = 24,24,1866.5067320642315,0.7351864044631683
+55,Birch,K = 25,25,1913.5435239214573,0.7352663331471933
+56,Birch,K = 26,26,1946.8174981298753,0.734208018604459
+57,Birch,K = 27,27,1989.396911236401,0.7337400015911605
+58,Birch,K = 28,28,2029.896399924932,0.7165491403685412
+59,Birch,K = 29,29,2088.4548633083637,0.6815650533756683
+60,AgglomerativeClustering,affinity = euclidean linkage = ward k = 2,2,901.5190604678486,0.9198430200563137
+61,AgglomerativeClustering,affinity = euclidean linkage = complete k = 2,2,187.951050117736,0.9518719195147436
+62,AgglomerativeClustering,affinity = euclidean linkage = average k = 2,2,187.951050117736,0.9518719195147436
+63,AgglomerativeClustering,affinity = euclidean linkage = single k = 2,2,187.951050117736,0.9518719195147436
+64,AgglomerativeClustering,affinity = l1 linkage = complete k = 2,2,382.23952736756866,0.9320221041469247
+65,AgglomerativeClustering,affinity = l1 linkage = average k = 2,2,187.951050117736,0.9518719195147436
+66,AgglomerativeClustering,affinity = l1 linkage = single k = 2,2,187.951050117736,0.9518719195147436
+67,AgglomerativeClustering,affinity = l2 linkage = complete k = 2,2,187.951050117736,0.9518719195147436
+68,AgglomerativeClustering,affinity = l2 linkage = average k = 2,2,187.951050117736,0.9518719195147436
+69,AgglomerativeClustering,affinity = l2 linkage = single k = 2,2,187.951050117736,0.9518719195147436
+70,AgglomerativeClustering,affinity = manhattan linkage = complete k = 2,2,382.23952736756866,0.9320221041469247
+71,AgglomerativeClustering,affinity = manhattan linkage = average k = 2,2,187.951050117736,0.9518719195147436
+72,AgglomerativeClustering,affinity = manhattan linkage = single k = 2,2,187.951050117736,0.9518719195147436
+73,AgglomerativeClustering,affinity = cosine linkage = complete k = 2,2,250.89141503288172,0.8071340735434687
+74,AgglomerativeClustering,affinity = cosine linkage = average k = 2,2,228.85407040217308,0.7928750380535431
+75,AgglomerativeClustering,affinity = cosine linkage = single k = 2,2,1.2651385176494285,0.6677333437891698
+76,AgglomerativeClustering,affinity = euclidean linkage = ward k = 3,3,842.7245557952698,0.9172004868444534
+77,AgglomerativeClustering,affinity = euclidean linkage = complete k = 3,3,842.7245557952698,0.9172004868444534
+78,AgglomerativeClustering,affinity = euclidean linkage = average k = 3,3,842.7245557952698,0.9172004868444534
+79,AgglomerativeClustering,affinity = euclidean linkage = single k = 3,3,105.83190620914665,0.8705644333859166
+80,AgglomerativeClustering,affinity = l1 linkage = complete k = 3,3,241.61923842590326,0.9152513550156962
+81,AgglomerativeClustering,affinity = l1 linkage = average k = 3,3,842.7245557952698,0.9172004868444534
+82,AgglomerativeClustering,affinity = l1 linkage = single k = 3,3,105.83190620914665,0.8705644333859166
+83,AgglomerativeClustering,affinity = l2 linkage = complete k = 3,3,842.7245557952698,0.9172004868444534
+84,AgglomerativeClustering,affinity = l2 linkage = average k = 3,3,842.7245557952698,0.9172004868444534
+85,AgglomerativeClustering,affinity = l2 linkage = single k = 3,3,105.83190620914665,0.8705644333859166
+86,AgglomerativeClustering,affinity = manhattan linkage = complete k = 3,3,241.61923842590326,0.9152513550156962
+87,AgglomerativeClustering,affinity = manhattan linkage = average k = 3,3,842.7245557952698,0.9172004868444534
+88,AgglomerativeClustering,affinity = manhattan linkage = single k = 3,3,105.83190620914665,0.8705644333859166
+89,AgglomerativeClustering,affinity = cosine linkage = complete k = 3,3,199.7044275960261,0.8165697652838935
+90,AgglomerativeClustering,affinity = cosine linkage = average k = 3,3,184.18370353227047,0.8034429277953214
+91,AgglomerativeClustering,affinity = cosine linkage = single k = 3,3,0.6337457128274905,-0.3717038180773713
+92,AgglomerativeClustering,affinity = euclidean linkage = ward k = 4,4,969.2043120830351,0.9113326393075648
+93,AgglomerativeClustering,affinity = euclidean linkage = complete k = 4,4,730.7058810022676,0.9093006618462829
+94,AgglomerativeClustering,affinity = euclidean linkage = average k = 4,4,639.5664713147625,0.9128166093043922
+95,AgglomerativeClustering,affinity = euclidean linkage = single k = 4,4,107.58078700316483,0.867702312849647
+96,AgglomerativeClustering,affinity = l1 linkage = complete k = 4,4,730.7058810022676,0.9093006618462829
+97,AgglomerativeClustering,affinity = l1 linkage = average k = 4,4,730.7058810022676,0.9093006618462829
+98,AgglomerativeClustering,affinity = l1 linkage = single k = 4,4,107.58078700316483,0.867702312849647
+99,AgglomerativeClustering,affinity = l2 linkage = complete k = 4,4,730.7058810022676,0.9093006618462829
+100,AgglomerativeClustering,affinity = l2 linkage = average k = 4,4,639.5664713147625,0.9128166093043922
+101,AgglomerativeClustering,affinity = l2 linkage = single k = 4,4,107.58078700316483,0.867702312849647
+102,AgglomerativeClustering,affinity = manhattan linkage = complete k = 4,4,730.7058810022676,0.9093006618462829
+103,AgglomerativeClustering,affinity = manhattan linkage = average k = 4,4,730.7058810022676,0.9093006618462829
+104,AgglomerativeClustering,affinity = manhattan linkage = single k = 4,4,107.58078700316483,0.867702312849647
+105,AgglomerativeClustering,affinity = cosine linkage = complete k = 4,4,133.4597007350631,0.6461551044047135
+106,AgglomerativeClustering,affinity = cosine linkage = average k = 4,4,135.29164376972602,0.6547687194867422
+107,AgglomerativeClustering,affinity = cosine linkage = single k = 4,4,0.6680172587918178,-0.3706642842946787
+108,AgglomerativeClustering,affinity = euclidean linkage = ward k = 5,5,1072.555126615093,0.9106416061714273
+109,AgglomerativeClustering,affinity = euclidean linkage = complete k = 5,5,637.9988030036557,0.9084339023678849
+110,AgglomerativeClustering,affinity = euclidean linkage = average k = 5,5,637.9988030036557,0.9084339023678849
+111,AgglomerativeClustering,affinity = euclidean linkage = single k = 5,5,112.90136794733321,0.8489503075026298
+112,AgglomerativeClustering,affinity = l1 linkage = complete k = 5,5,1072.555126615093,0.9106416061714273
+113,AgglomerativeClustering,affinity = l1 linkage = average k = 5,5,637.9988030036557,0.9084339023678849
+114,AgglomerativeClustering,affinity = l1 linkage = single k = 5,5,134.25564480592388,0.8708966170383867
+115,AgglomerativeClustering,affinity = l2 linkage = complete k = 5,5,637.9988030036557,0.9084339023678849
+116,AgglomerativeClustering,affinity = l2 linkage = average k = 5,5,637.9988030036557,0.9084339023678849
+117,AgglomerativeClustering,affinity = l2 linkage = single k = 5,5,112.90136794733321,0.8489503075026298
+118,AgglomerativeClustering,affinity = manhattan linkage = complete k = 5,5,1072.555126615093,0.9106416061714273
+119,AgglomerativeClustering,affinity = manhattan linkage = average k = 5,5,637.9988030036557,0.9084339023678849
+120,AgglomerativeClustering,affinity = manhattan linkage = single k = 5,5,134.25564480592388,0.8708966170383867
+121,AgglomerativeClustering,affinity = cosine linkage = complete k = 5,5,100.03865954427089,0.5806412158149767
+122,AgglomerativeClustering,affinity = cosine linkage = average k = 5,5,103.43798664013612,0.5606848524742039
+123,AgglomerativeClustering,affinity = cosine linkage = single k = 5,5,0.5011500933135802,-0.37154595729602524
+124,AgglomerativeClustering,affinity = euclidean linkage = ward k = 6,6,1139.354841060947,0.90256429190038
+125,AgglomerativeClustering,affinity = euclidean linkage = complete k = 6,6,1024.2375266382896,0.9092414929980549
+126,AgglomerativeClustering,affinity = euclidean linkage = average k = 6,6,1024.2375266382896,0.9092414929980549
+127,AgglomerativeClustering,affinity = euclidean linkage = single k = 6,6,116.5600245701791,0.8500174388870654
+128,AgglomerativeClustering,affinity = l1 linkage = complete k = 6,6,1024.2375266382899,0.9092414929980549
+129,AgglomerativeClustering,affinity = l1 linkage = average k = 6,6,1024.2375266382896,0.9092414929980549
+130,AgglomerativeClustering,affinity = l1 linkage = single k = 6,6,148.60862706215053,0.854503441592811
+131,AgglomerativeClustering,affinity = l2 linkage = complete k = 6,6,1024.2375266382896,0.9092414929980549
+132,AgglomerativeClustering,affinity = l2 linkage = average k = 6,6,1024.2375266382896,0.9092414929980549
+133,AgglomerativeClustering,affinity = l2 linkage = single k = 6,6,116.5600245701791,0.8500174388870654
+134,AgglomerativeClustering,affinity = manhattan linkage = complete k = 6,6,1024.2375266382899,0.9092414929980549
+135,AgglomerativeClustering,affinity = manhattan linkage = average k = 6,6,1024.2375266382896,0.9092414929980549
+136,AgglomerativeClustering,affinity = manhattan linkage = single k = 6,6,148.60862706215053,0.854503441592811
+137,AgglomerativeClustering,affinity = cosine linkage = complete k = 6,6,84.93718318234738,0.5797701717983658
+138,AgglomerativeClustering,affinity = cosine linkage = average k = 6,6,86.21636781169339,0.5627081447364755
+139,AgglomerativeClustering,affinity = cosine linkage = single k = 6,6,0.4014794398087832,-0.37243590562835427
+140,AgglomerativeClustering,affinity = euclidean linkage = ward k = 7,7,1250.8397002075262,0.7834897938937482
+141,AgglomerativeClustering,affinity = euclidean linkage = complete k = 7,7,1193.0807650998795,0.9035315991506502
+142,AgglomerativeClustering,affinity = euclidean linkage = average k = 7,7,1193.0807650998795,0.9035315991506502
+143,AgglomerativeClustering,affinity = euclidean linkage = single k = 7,7,124.8275328653038,0.8528067788163297
+144,AgglomerativeClustering,affinity = l1 linkage = complete k = 7,7,1193.080765099879,0.9035315991506502
+145,AgglomerativeClustering,affinity = l1 linkage = average k = 7,7,1193.0807650998795,0.9035315991506502
+146,AgglomerativeClustering,affinity = l1 linkage = single k = 7,7,124.82753286530381,0.8528067788163297
+147,AgglomerativeClustering,affinity = l2 linkage = complete k = 7,7,1193.0807650998795,0.9035315991506502
+148,AgglomerativeClustering,affinity = l2 linkage = average k = 7,7,1193.0807650998795,0.9035315991506502
+149,AgglomerativeClustering,affinity = l2 linkage = single k = 7,7,124.8275328653038,0.8528067788163297
+150,AgglomerativeClustering,affinity = manhattan linkage = complete k = 7,7,1193.080765099879,0.9035315991506502
+151,AgglomerativeClustering,affinity = manhattan linkage = average k = 7,7,1193.0807650998795,0.9035315991506502
+152,AgglomerativeClustering,affinity = manhattan linkage = single k = 7,7,124.82753286530381,0.8528067788163297
+153,AgglomerativeClustering,affinity = cosine linkage = complete k = 7,7,79.74384207971255,0.5825228475135752
+154,AgglomerativeClustering,affinity = cosine linkage = average k = 7,7,73.39390389162904,0.5401749730792575
+155,AgglomerativeClustering,affinity = cosine linkage = single k = 7,7,0.3407689801051735,-0.3691744319520261
+156,AgglomerativeClustering,affinity = euclidean linkage = ward k = 8,8,1445.9166556927828,0.7846297361127993
+157,AgglomerativeClustering,affinity = euclidean linkage = complete k = 8,8,1081.6265633580724,0.9022148177601184
+158,AgglomerativeClustering,affinity = euclidean linkage = average k = 8,8,1081.6265633580724,0.9022148177601184
+159,AgglomerativeClustering,affinity = euclidean linkage = single k = 8,8,124.98304287199491,0.8508158392049016
+160,AgglomerativeClustering,affinity = l1 linkage = complete k = 8,8,1081.6265633580724,0.9022148177601184
+161,AgglomerativeClustering,affinity = l1 linkage = average k = 8,8,1081.6265633580724,0.9022148177601184
+162,AgglomerativeClustering,affinity = l1 linkage = single k = 8,8,108.72316249539182,0.8474800717277416
+163,AgglomerativeClustering,affinity = l2 linkage = complete k = 8,8,1081.6265633580724,0.9022148177601184
+164,AgglomerativeClustering,affinity = l2 linkage = average k = 8,8,1081.6265633580724,0.9022148177601184
+165,AgglomerativeClustering,affinity = l2 linkage = single k = 8,8,124.98304287199491,0.8508158392049016
+166,AgglomerativeClustering,affinity = manhattan linkage = complete k = 8,8,1081.6265633580724,0.9022148177601184
+167,AgglomerativeClustering,affinity = manhattan linkage = average k = 8,8,1081.6265633580724,0.9022148177601184
+168,AgglomerativeClustering,affinity = manhattan linkage = single k = 8,8,108.72316249539182,0.8474800717277416
+169,AgglomerativeClustering,affinity = cosine linkage = complete k = 8,8,68.3172254543891,0.46637810414740627
+170,AgglomerativeClustering,affinity = cosine linkage = average k = 8,8,62.84355962702281,0.4587822965047379
+171,AgglomerativeClustering,affinity = cosine linkage = single k = 8,8,38.64108087278937,0.42375426038437447
+172,AgglomerativeClustering,affinity = euclidean linkage = ward k = 9,9,1464.3521680453134,0.7464714983270233
+173,AgglomerativeClustering,affinity = euclidean linkage = complete k = 9,9,1013.3740926931861,0.898373825333573
+174,AgglomerativeClustering,affinity = euclidean linkage = average k = 9,9,981.1905004393547,0.9013386220486372
+175,AgglomerativeClustering,affinity = euclidean linkage = single k = 9,9,111.18554293249916,0.8456303650288731
+176,AgglomerativeClustering,affinity = l1 linkage = complete k = 9,9,1341.9526376219344,0.8592761967044483
+177,AgglomerativeClustering,affinity = l1 linkage = average k = 9,9,1013.4206319580285,0.8995019810246677
+178,AgglomerativeClustering,affinity = l1 linkage = single k = 9,9,475.6206048281245,0.8902455630944192
+179,AgglomerativeClustering,affinity = l2 linkage = complete k = 9,9,1013.3740926931861,0.898373825333573
+180,AgglomerativeClustering,affinity = l2 linkage = average k = 9,9,981.1905004393547,0.9013386220486372
+181,AgglomerativeClustering,affinity = l2 linkage = single k = 9,9,111.18554293249916,0.8456303650288731
+182,AgglomerativeClustering,affinity = manhattan linkage = complete k = 9,9,1341.9526376219344,0.8592761967044483
+183,AgglomerativeClustering,affinity = manhattan linkage = average k = 9,9,1013.4206319580285,0.8995019810246677
+184,AgglomerativeClustering,affinity = manhattan linkage = single k = 9,9,475.6206048281245,0.8902455630944192
+185,AgglomerativeClustering,affinity = cosine linkage = complete k = 9,9,59.79491913243787,0.3464838382014046
+186,AgglomerativeClustering,affinity = cosine linkage = average k = 9,9,58.81036999246189,0.45994457881541545
+187,AgglomerativeClustering,affinity = cosine linkage = single k = 9,9,33.769307233700204,0.427292954818212
+188,AgglomerativeClustering,affinity = euclidean linkage = ward k = 10,10,1443.7127387747062,0.7440011445427601
+189,AgglomerativeClustering,affinity = euclidean linkage = complete k = 10,10,1354.105907113653,0.858317228508942
+190,AgglomerativeClustering,affinity = euclidean linkage = average k = 10,10,936.1752272210891,0.8986257853131866
+191,AgglomerativeClustering,affinity = euclidean linkage = single k = 10,10,430.6678832893079,0.8871568584001545
+192,AgglomerativeClustering,affinity = l1 linkage = complete k = 10,10,1311.9568922372127,0.8567060455586077
+193,AgglomerativeClustering,affinity = l1 linkage = average k = 10,10,936.1752272210891,0.8986257853131866
+194,AgglomerativeClustering,affinity = l1 linkage = single k = 10,10,495.114888876369,0.8840807611995234
+195,AgglomerativeClustering,affinity = l2 linkage = complete k = 10,10,1354.105907113653,0.858317228508942
+196,AgglomerativeClustering,affinity = l2 linkage = average k = 10,10,936.1752272210891,0.8986257853131866
+197,AgglomerativeClustering,affinity = l2 linkage = single k = 10,10,430.6678832893079,0.8871568584001545
+198,AgglomerativeClustering,affinity = manhattan linkage = complete k = 10,10,1311.9568922372127,0.8567060455586077
+199,AgglomerativeClustering,affinity = manhattan linkage = average k = 10,10,936.1752272210891,0.8986257853131866
+200,AgglomerativeClustering,affinity = manhattan linkage = single k = 10,10,495.114888876369,0.8840807611995234
+201,AgglomerativeClustering,affinity = cosine linkage = complete k = 10,10,53.10706324524916,0.3479958273761265
+202,AgglomerativeClustering,affinity = cosine linkage = average k = 10,10,52.262169367535044,0.46698538568933956
+203,AgglomerativeClustering,affinity = cosine linkage = single k = 10,10,48.98519411122208,0.43989666027772845
+204,AgglomerativeClustering,affinity = euclidean linkage = ward k = 11,11,1434.7558833772437,0.7426843631522282
+205,AgglomerativeClustering,affinity = euclidean linkage = complete k = 11,11,1320.1993452506954,0.8592075542219025
+206,AgglomerativeClustering,affinity = euclidean linkage = average k = 11,11,892.7420698595224,0.8929621527253664
+207,AgglomerativeClustering,affinity = euclidean linkage = single k = 11,11,394.3805150239724,0.885893361459896
+208,AgglomerativeClustering,affinity = l1 linkage = complete k = 11,11,1268.193864212814,0.8567090919894373
+209,AgglomerativeClustering,affinity = l1 linkage = average k = 11,11,1247.6573925443383,0.8558298498471266
+210,AgglomerativeClustering,affinity = l1 linkage = single k = 11,11,864.5057276606764,0.8894902084844393
+211,AgglomerativeClustering,affinity = l2 linkage = complete k = 11,11,1320.1993452506954,0.8592075542219025
+212,AgglomerativeClustering,affinity = l2 linkage = average k = 11,11,892.7420698595224,0.8929621527253664
+213,AgglomerativeClustering,affinity = l2 linkage = single k = 11,11,394.3805150239724,0.885893361459896
+214,AgglomerativeClustering,affinity = manhattan linkage = complete k = 11,11,1268.193864212814,0.8567090919894373
+215,AgglomerativeClustering,affinity = manhattan linkage = average k = 11,11,1247.6573925443383,0.8558298498471266
+216,AgglomerativeClustering,affinity = manhattan linkage = single k = 11,11,864.5057276606764,0.8894902084844393
+217,AgglomerativeClustering,affinity = cosine linkage = complete k = 11,11,61.25514733026895,0.3486517586641427
+218,AgglomerativeClustering,affinity = cosine linkage = average k = 11,11,47.71211679196097,0.4638295214499899
+219,AgglomerativeClustering,affinity = cosine linkage = single k = 11,11,45.09297659327506,0.4408985400224639
+220,AgglomerativeClustering,affinity = euclidean linkage = ward k = 12,12,1440.2857930748062,0.743682818426295
+221,AgglomerativeClustering,affinity = euclidean linkage = complete k = 12,12,1314.964737917867,0.8596428714669778
+222,AgglomerativeClustering,affinity = euclidean linkage = average k = 12,12,861.3062776781552,0.8932113302402965
+223,AgglomerativeClustering,affinity = euclidean linkage = single k = 12,12,422.0714670632603,0.8824503728980005
+224,AgglomerativeClustering,affinity = l1 linkage = complete k = 12,12,1252.4726094245345,0.8572707789276822
+225,AgglomerativeClustering,affinity = l1 linkage = average k = 12,12,1233.9730986397485,0.8568642217551677
+226,AgglomerativeClustering,affinity = l1 linkage = single k = 12,12,831.3877219376982,0.8483705567905157
+227,AgglomerativeClustering,affinity = l2 linkage = complete k = 12,12,1314.964737917867,0.8596428714669778
+228,AgglomerativeClustering,affinity = l2 linkage = average k = 12,12,861.3062776781552,0.8932113302402965
+229,AgglomerativeClustering,affinity = l2 linkage = single k = 12,12,422.0714670632603,0.8824503728980005
+230,AgglomerativeClustering,affinity = manhattan linkage = complete k = 12,12,1252.4726094245345,0.8572707789276822
+231,AgglomerativeClustering,affinity = manhattan linkage = average k = 12,12,1233.9730986397485,0.8568642217551677
+232,AgglomerativeClustering,affinity = manhattan linkage = single k = 12,12,831.3877219376982,0.8483705567905157
+233,AgglomerativeClustering,affinity = cosine linkage = complete k = 12,12,60.63264819051688,0.3524544781326083
+234,AgglomerativeClustering,affinity = cosine linkage = average k = 12,12,43.318735710250905,0.46409840722023243
+235,AgglomerativeClustering,affinity = cosine linkage = single k = 12,12,40.93566311707768,0.44327770087450813
+236,AgglomerativeClustering,affinity = euclidean linkage = ward k = 13,13,1464.8310771029523,0.7440414505921361
+237,AgglomerativeClustering,affinity = euclidean linkage = complete k = 13,13,1304.991246365154,0.857173043634701
+238,AgglomerativeClustering,affinity = euclidean linkage = average k = 13,13,823.4219572792784,0.8916542640969103
+239,AgglomerativeClustering,affinity = euclidean linkage = single k = 13,13,776.8766365128876,0.8882052846572207
+240,AgglomerativeClustering,affinity = l1 linkage = complete k = 13,13,1361.7275605256013,0.5721300063937996
+241,AgglomerativeClustering,affinity = l1 linkage = average k = 13,13,1235.3599496027305,0.8580852076718939
+242,AgglomerativeClustering,affinity = l1 linkage = single k = 13,13,799.721094271345,0.8374893985037938
+243,AgglomerativeClustering,affinity = l2 linkage = complete k = 13,13,1304.991246365154,0.857173043634701
+244,AgglomerativeClustering,affinity = l2 linkage = average k = 13,13,823.4219572792784,0.8916542640969103
+245,AgglomerativeClustering,affinity = l2 linkage = single k = 13,13,776.8766365128876,0.8882052846572207
+246,AgglomerativeClustering,affinity = manhattan linkage = complete k = 13,13,1361.7275605256013,0.5721300063937996
+247,AgglomerativeClustering,affinity = manhattan linkage = average k = 13,13,1235.3599496027305,0.8580852076718939
+248,AgglomerativeClustering,affinity = manhattan linkage = single k = 13,13,799.721094271345,0.8374893985037938
+249,AgglomerativeClustering,affinity = cosine linkage = complete k = 13,13,55.54202191339742,0.3514546231427225
+250,AgglomerativeClustering,affinity = cosine linkage = average k = 13,13,40.3293020362795,0.4646102052704757
+251,AgglomerativeClustering,affinity = cosine linkage = single k = 13,13,37.58219257436019,0.44817707472961676
+252,AgglomerativeClustering,affinity = euclidean linkage = ward k = 14,14,1470.9988251753484,0.7240284939179689
+253,AgglomerativeClustering,affinity = euclidean linkage = complete k = 14,14,1295.8857904030313,0.8563104709751487
+254,AgglomerativeClustering,affinity = euclidean linkage = average k = 14,14,1218.1285301571988,0.8556657877776226
+255,AgglomerativeClustering,affinity = euclidean linkage = single k = 14,14,753.1886677346131,0.8355555053408262
+256,AgglomerativeClustering,affinity = l1 linkage = complete k = 14,14,1334.4057001022684,0.571133683041135
+257,AgglomerativeClustering,affinity = l1 linkage = average k = 14,14,1200.1506426822282,0.8567383071554447
+258,AgglomerativeClustering,affinity = l1 linkage = single k = 14,14,791.7959070874423,0.8406731709154796
+259,AgglomerativeClustering,affinity = l2 linkage = complete k = 14,14,1295.8857904030313,0.8563104709751487
+260,AgglomerativeClustering,affinity = l2 linkage = average k = 14,14,1218.1285301571988,0.8556657877776226
+261,AgglomerativeClustering,affinity = l2 linkage = single k = 14,14,753.1886677346131,0.8355555053408262
+262,AgglomerativeClustering,affinity = manhattan linkage = complete k = 14,14,1334.4057001022684,0.571133683041135
+263,AgglomerativeClustering,affinity = manhattan linkage = average k = 14,14,1200.1506426822282,0.8567383071554447
+264,AgglomerativeClustering,affinity = manhattan linkage = single k = 14,14,791.7959070874423,0.8406731709154796
+265,AgglomerativeClustering,affinity = cosine linkage = complete k = 14,14,51.24847794036594,0.3502680306185346
+266,AgglomerativeClustering,affinity = cosine linkage = average k = 14,14,39.020966297492144,0.46591882142430385
+267,AgglomerativeClustering,affinity = cosine linkage = single k = 14,14,34.63438291145373,0.3927108864299321
+268,AgglomerativeClustering,affinity = euclidean linkage = ward k = 15,15,1493.592704593529,0.7231659212584163
+269,AgglomerativeClustering,affinity = euclidean linkage = complete k = 15,15,1289.9804373948266,0.853398261606481
+270,AgglomerativeClustering,affinity = euclidean linkage = average k = 15,15,1194.6800425182614,0.855392487368317
+271,AgglomerativeClustering,affinity = euclidean linkage = single k = 15,15,745.3380529652967,0.8362997796111094
+272,AgglomerativeClustering,affinity = l1 linkage = complete k = 15,15,1331.065731596864,0.569310896125631
+273,AgglomerativeClustering,affinity = l1 linkage = average k = 15,15,1224.9815893308498,0.85682118455585
+274,AgglomerativeClustering,affinity = l1 linkage = single k = 15,15,744.216137304611,0.8387547821767048
+275,AgglomerativeClustering,affinity = l2 linkage = complete k = 15,15,1289.9804373948266,0.853398261606481
+276,AgglomerativeClustering,affinity = l2 linkage = average k = 15,15,1194.6800425182614,0.855392487368317
+277,AgglomerativeClustering,affinity = l2 linkage = single k = 15,15,745.3380529652967,0.8362997796111094
+278,AgglomerativeClustering,affinity = manhattan linkage = complete k = 15,15,1331.065731596864,0.569310896125631
+279,AgglomerativeClustering,affinity = manhattan linkage = average k = 15,15,1224.9815893308498,0.85682118455585
+280,AgglomerativeClustering,affinity = manhattan linkage = single k = 15,15,744.216137304611,0.8387547821767048
+281,AgglomerativeClustering,affinity = cosine linkage = complete k = 15,15,48.4193908827162,0.3531484376112213
+282,AgglomerativeClustering,affinity = cosine linkage = average k = 15,15,36.29775104296365,0.45016434893236695
+283,AgglomerativeClustering,affinity = cosine linkage = single k = 15,15,32.89843078279453,0.39430447367189025
+284,AgglomerativeClustering,affinity = euclidean linkage = ward k = 16,16,1528.2566028721276,0.7213731464096721
+285,AgglomerativeClustering,affinity = euclidean linkage = complete k = 16,16,1282.0393791678148,0.8540885859595719
+286,AgglomerativeClustering,affinity = euclidean linkage = average k = 16,16,1283.5792213140287,0.8547064670202581
+287,AgglomerativeClustering,affinity = euclidean linkage = single k = 16,16,750.6997462993535,0.839483552022795
+288,AgglomerativeClustering,affinity = l1 linkage = complete k = 16,16,1355.5355821610933,0.5690652703307156
+289,AgglomerativeClustering,affinity = l1 linkage = average k = 16,16,1201.2011014433583,0.8561016864842566
+290,AgglomerativeClustering,affinity = l1 linkage = single k = 16,16,729.0741789420056,0.8376146323494693
+291,AgglomerativeClustering,affinity = l2 linkage = complete k = 16,16,1282.0393791678148,0.8540885859595719
+292,AgglomerativeClustering,affinity = l2 linkage = average k = 16,16,1283.5792213140287,0.8547064670202581
+293,AgglomerativeClustering,affinity = l2 linkage = single k = 16,16,750.6997462993535,0.839483552022795
+294,AgglomerativeClustering,affinity = manhattan linkage = complete k = 16,16,1355.5355821610933,0.5690652703307156
+295,AgglomerativeClustering,affinity = manhattan linkage = average k = 16,16,1201.2011014433583,0.8561016864842566
+296,AgglomerativeClustering,affinity = manhattan linkage = single k = 16,16,729.0741789420056,0.8376146323494693
+297,AgglomerativeClustering,affinity = cosine linkage = complete k = 16,16,47.117849012573494,0.35410689196765743
+298,AgglomerativeClustering,affinity = cosine linkage = average k = 16,16,33.81687252988837,0.44899497950112516
+299,AgglomerativeClustering,affinity = cosine linkage = single k = 16,16,30.650529985997036,0.3932506877955238
+300,AgglomerativeClustering,affinity = euclidean linkage = ward k = 17,17,1553.4447332228256,0.5880543393906202
+301,AgglomerativeClustering,affinity = euclidean linkage = complete k = 17,17,1543.3502727328332,0.7295340470065836
+302,AgglomerativeClustering,affinity = euclidean linkage = average k = 17,17,1273.2906781025156,0.854416181050412
+303,AgglomerativeClustering,affinity = euclidean linkage = single k = 17,17,713.2508922264689,0.8379613114381037
+304,AgglomerativeClustering,affinity = l1 linkage = complete k = 17,17,1424.7348680105456,0.5686331926852671
+305,AgglomerativeClustering,affinity = l1 linkage = average k = 17,17,1213.3891761968202,0.8547161355865514
+306,AgglomerativeClustering,affinity = l1 linkage = single k = 17,17,707.9162881193296,0.8103847735973762
+307,AgglomerativeClustering,affinity = l2 linkage = complete k = 17,17,1543.3502727328332,0.7295340470065836
+308,AgglomerativeClustering,affinity = l2 linkage = average k = 17,17,1273.2906781025156,0.854416181050412
+309,AgglomerativeClustering,affinity = l2 linkage = single k = 17,17,713.2508922264689,0.8379613114381037
+310,AgglomerativeClustering,affinity = manhattan linkage = complete k = 17,17,1424.7348680105456,0.5686331926852671
+311,AgglomerativeClustering,affinity = manhattan linkage = average k = 17,17,1213.3891761968202,0.8547161355865514
+312,AgglomerativeClustering,affinity = manhattan linkage = single k = 17,17,707.9162881193296,0.8103847735973762
+313,AgglomerativeClustering,affinity = cosine linkage = complete k = 17,17,44.158532915787426,0.3737667436398396
+314,AgglomerativeClustering,affinity = cosine linkage = average k = 17,17,33.41538133097141,0.4528150278490131
+315,AgglomerativeClustering,affinity = cosine linkage = single k = 17,17,29.38685595582616,0.39468762952639447
+316,AgglomerativeClustering,affinity = euclidean linkage = ward k = 18,18,1595.060067238109,0.5887896642326608
+317,AgglomerativeClustering,affinity = euclidean linkage = complete k = 18,18,1562.221643921554,0.7292437610367376
+318,AgglomerativeClustering,affinity = euclidean linkage = average k = 18,18,1271.0988049950815,0.8539901221104453
+319,AgglomerativeClustering,affinity = euclidean linkage = single k = 18,18,700.1526803553418,0.8369134944294107
+320,AgglomerativeClustering,affinity = l1 linkage = complete k = 18,18,1446.6570795918306,0.5685633215346795
+321,AgglomerativeClustering,affinity = l1 linkage = average k = 18,18,1194.8489465907876,0.8530173077337595
+322,AgglomerativeClustering,affinity = l1 linkage = single k = 18,18,690.4829818960865,0.8101570968925401
+323,AgglomerativeClustering,affinity = l2 linkage = complete k = 18,18,1562.221643921554,0.7292437610367376
+324,AgglomerativeClustering,affinity = l2 linkage = average k = 18,18,1271.0988049950815,0.8539901221104453
+325,AgglomerativeClustering,affinity = l2 linkage = single k = 18,18,700.1526803553418,0.8369134944294107
+326,AgglomerativeClustering,affinity = manhattan linkage = complete k = 18,18,1446.6570795918306,0.5685633215346795
+327,AgglomerativeClustering,affinity = manhattan linkage = average k = 18,18,1194.8489465907876,0.8530173077337595
+328,AgglomerativeClustering,affinity = manhattan linkage = single k = 18,18,690.4829818960865,0.8101570968925401
+329,AgglomerativeClustering,affinity = cosine linkage = complete k = 18,18,41.55912360695227,0.37213276725008465
+330,AgglomerativeClustering,affinity = cosine linkage = average k = 18,18,31.434077544819854,0.45315431055769584
+331,AgglomerativeClustering,affinity = cosine linkage = single k = 18,18,28.210845700080082,0.3934068529707069
+332,AgglomerativeClustering,affinity = euclidean linkage = ward k = 19,19,1649.5777975423662,0.5902112228251406
+333,AgglomerativeClustering,affinity = euclidean linkage = complete k = 19,19,1612.5237985757253,0.730356545749837
+334,AgglomerativeClustering,affinity = euclidean linkage = average k = 19,19,1240.6891933538204,0.8361186975146052
+335,AgglomerativeClustering,affinity = euclidean linkage = single k = 19,19,679.8230492745636,0.7931893648044037
+336,AgglomerativeClustering,affinity = l1 linkage = complete k = 19,19,1447.2255848080022,0.5668644936818876
+337,AgglomerativeClustering,affinity = l1 linkage = average k = 19,19,1177.541393912599,0.8524709726304642
+338,AgglomerativeClustering,affinity = l1 linkage = single k = 19,19,684.9368823158405,0.8087715459948349
+339,AgglomerativeClustering,affinity = l2 linkage = complete k = 19,19,1612.5237985757253,0.730356545749837
+340,AgglomerativeClustering,affinity = l2 linkage = average k = 19,19,1240.6891933538204,0.8361186975146052
+341,AgglomerativeClustering,affinity = l2 linkage = single k = 19,19,679.8230492745636,0.7931893648044037
+342,AgglomerativeClustering,affinity = manhattan linkage = complete k = 19,19,1447.2255848080022,0.5668644936818876
+343,AgglomerativeClustering,affinity = manhattan linkage = average k = 19,19,1177.541393912599,0.8524709726304642
+344,AgglomerativeClustering,affinity = manhattan linkage = single k = 19,19,684.9368823158405,0.8087715459948349
+345,AgglomerativeClustering,affinity = cosine linkage = complete k = 19,19,39.23029913163704,0.3918336292689422
+346,AgglomerativeClustering,affinity = cosine linkage = average k = 19,19,29.667473909875202,0.4523310799814284
+347,AgglomerativeClustering,affinity = cosine linkage = single k = 19,19,26.61136612246764,0.4002915172076084
+348,AgglomerativeClustering,affinity = euclidean linkage = ward k = 20,20,1706.8796901937037,0.5899209368552946
+349,AgglomerativeClustering,affinity = euclidean linkage = complete k = 20,20,1624.4176318961984,0.7290534997548049
+350,AgglomerativeClustering,affinity = euclidean linkage = average k = 20,20,1231.8748374470615,0.8355734161162279
+351,AgglomerativeClustering,affinity = euclidean linkage = single k = 20,20,669.8470825198617,0.7882802284004687
+352,AgglomerativeClustering,affinity = l1 linkage = complete k = 20,20,1474.1784974900443,0.5676063626554658
+353,AgglomerativeClustering,affinity = l1 linkage = average k = 20,20,1195.9774694656408,0.8328971988157883
+354,AgglomerativeClustering,affinity = l1 linkage = single k = 20,20,665.8835037316425,0.8080751088758577
+355,AgglomerativeClustering,affinity = l2 linkage = complete k = 20,20,1624.4176318961984,0.7290534997548049
+356,AgglomerativeClustering,affinity = l2 linkage = average k = 20,20,1231.8748374470615,0.8355734161162279
+357,AgglomerativeClustering,affinity = l2 linkage = single k = 20,20,669.8470825198617,0.7882802284004687
+358,AgglomerativeClustering,affinity = manhattan linkage = complete k = 20,20,1474.1784974900443,0.5676063626554658
+359,AgglomerativeClustering,affinity = manhattan linkage = average k = 20,20,1195.9774694656408,0.8328971988157883
+360,AgglomerativeClustering,affinity = manhattan linkage = single k = 20,20,665.8835037316425,0.8080751088758577
+361,AgglomerativeClustering,affinity = cosine linkage = complete k = 20,20,37.332401848331386,0.3914663932765657
+362,AgglomerativeClustering,affinity = cosine linkage = average k = 20,20,28.05533982871095,0.42045472193591776
+363,AgglomerativeClustering,affinity = cosine linkage = single k = 20,20,25.164766595560014,0.3982002543563578
+364,AgglomerativeClustering,affinity = euclidean linkage = ward k = 21,21,1775.9900076724107,0.5910370488095761
+365,AgglomerativeClustering,affinity = euclidean linkage = complete k = 21,21,1682.5448033478597,0.7299932023466846
+366,AgglomerativeClustering,affinity = euclidean linkage = average k = 21,21,1204.3148118483077,0.8345151015734937
+367,AgglomerativeClustering,affinity = euclidean linkage = single k = 21,21,656.414966534229,0.7887457414670508
+368,AgglomerativeClustering,affinity = l1 linkage = complete k = 21,21,1485.9058837524908,0.5671216903916251
+369,AgglomerativeClustering,affinity = l1 linkage = average k = 21,21,1222.3865665637222,0.8336517384560251
+370,AgglomerativeClustering,affinity = l1 linkage = single k = 21,21,649.6568068772893,0.8069301897855141
+371,AgglomerativeClustering,affinity = l2 linkage = complete k = 21,21,1682.5448033478597,0.7299932023466846
+372,AgglomerativeClustering,affinity = l2 linkage = average k = 21,21,1204.3148118483077,0.8345151015734937
+373,AgglomerativeClustering,affinity = l2 linkage = single k = 21,21,656.414966534229,0.7887457414670508
+374,AgglomerativeClustering,affinity = manhattan linkage = complete k = 21,21,1485.9058837524908,0.5671216903916251
+375,AgglomerativeClustering,affinity = manhattan linkage = average k = 21,21,1222.3865665637222,0.8336517384560251
+376,AgglomerativeClustering,affinity = manhattan linkage = single k = 21,21,649.6568068772893,0.8069301897855141
+377,AgglomerativeClustering,affinity = cosine linkage = complete k = 21,21,35.445408663667386,0.3909184696691373
+378,AgglomerativeClustering,affinity = cosine linkage = average k = 21,21,27.941027503339463,0.4219230212282562
+379,AgglomerativeClustering,affinity = cosine linkage = single k = 21,21,23.974897189627654,0.4057270761403142
+380,AgglomerativeClustering,affinity = euclidean linkage = ward k = 22,22,1856.2703348245518,0.5712673178498997
+381,AgglomerativeClustering,affinity = euclidean linkage = complete k = 22,22,1710.726475788145,0.7293277142350513
+382,AgglomerativeClustering,affinity = euclidean linkage = average k = 22,22,1211.9481957028056,0.8164880250475118
+383,AgglomerativeClustering,affinity = euclidean linkage = single k = 22,22,642.6623000242703,0.7880493043480734
+384,AgglomerativeClustering,affinity = l1 linkage = complete k = 22,22,1529.0468862123273,0.5777445660291248
+385,AgglomerativeClustering,affinity = l1 linkage = average k = 22,22,1199.6767098209427,0.832452565037266
+386,AgglomerativeClustering,affinity = l1 linkage = single k = 22,22,780.1241512798055,0.8159963457333417
+387,AgglomerativeClustering,affinity = l2 linkage = complete k = 22,22,1710.726475788145,0.7293277142350513
+388,AgglomerativeClustering,affinity = l2 linkage = average k = 22,22,1211.9481957028056,0.8164880250475118
+389,AgglomerativeClustering,affinity = l2 linkage = single k = 22,22,642.6623000242703,0.7880493043480734
+390,AgglomerativeClustering,affinity = manhattan linkage = complete k = 22,22,1529.0468862123273,0.5777445660291248
+391,AgglomerativeClustering,affinity = manhattan linkage = average k = 22,22,1199.6767098209427,0.832452565037266
+392,AgglomerativeClustering,affinity = manhattan linkage = single k = 22,22,780.1241512798055,0.8159963457333417
+393,AgglomerativeClustering,affinity = cosine linkage = complete k = 22,22,33.69605309871111,0.3899329438973883
+394,AgglomerativeClustering,affinity = cosine linkage = average k = 22,22,26.60885748529284,0.43163864574842636
+395,AgglomerativeClustering,affinity = cosine linkage = single k = 22,22,24.40572884729575,0.4075562462533924
+396,AgglomerativeClustering,affinity = euclidean linkage = ward k = 23,23,1929.6615937923057,0.5731285738687398
+397,AgglomerativeClustering,affinity = euclidean linkage = complete k = 23,23,1726.834003671484,0.7293381282771038
+398,AgglomerativeClustering,affinity = euclidean linkage = average k = 23,23,1213.3224464164562,0.8144310162746857
+399,AgglomerativeClustering,affinity = euclidean linkage = single k = 23,23,623.3633571325402,0.7884262028380189
+400,AgglomerativeClustering,affinity = l1 linkage = complete k = 23,23,1590.4485687139945,0.5777931263650701
+401,AgglomerativeClustering,affinity = l1 linkage = average k = 23,23,1173.8541289483217,0.831790057117123
+402,AgglomerativeClustering,affinity = l1 linkage = single k = 23,23,773.8693321965015,0.815588919687951
+403,AgglomerativeClustering,affinity = l2 linkage = complete k = 23,23,1726.834003671484,0.7293381282771038
+404,AgglomerativeClustering,affinity = l2 linkage = average k = 23,23,1213.3224464164562,0.8144310162746857
+405,AgglomerativeClustering,affinity = l2 linkage = single k = 23,23,623.3633571325402,0.7884262028380189
+406,AgglomerativeClustering,affinity = manhattan linkage = complete k = 23,23,1590.4485687139945,0.5777931263650701
+407,AgglomerativeClustering,affinity = manhattan linkage = average k = 23,23,1173.8541289483217,0.831790057117123
+408,AgglomerativeClustering,affinity = manhattan linkage = single k = 23,23,773.8693321965015,0.815588919687951
+409,AgglomerativeClustering,affinity = cosine linkage = complete k = 23,23,32.443049477185205,0.390362997481119
+410,AgglomerativeClustering,affinity = cosine linkage = average k = 23,23,25.358946505833586,0.4295756507699661
+411,AgglomerativeClustering,affinity = cosine linkage = single k = 23,23,23.303609950289296,0.4124777380674975
+412,AgglomerativeClustering,affinity = euclidean linkage = ward k = 24,24,2006.4662729439447,0.5721293753611006
+413,AgglomerativeClustering,affinity = euclidean linkage = complete k = 24,24,1800.230713503948,0.731909302369036
+414,AgglomerativeClustering,affinity = euclidean linkage = average k = 24,24,1265.630919672488,0.8152395455249772
+415,AgglomerativeClustering,affinity = euclidean linkage = single k = 24,24,762.5545623452908,0.7988343796573474
+416,AgglomerativeClustering,affinity = l1 linkage = complete k = 24,24,1589.1655560261315,0.5765939529463109
+417,AgglomerativeClustering,affinity = l1 linkage = average k = 24,24,1191.5027117181949,0.8138170545378179
+418,AgglomerativeClustering,affinity = l1 linkage = single k = 24,24,770.0636059730211,0.7955275332826032
+419,AgglomerativeClustering,affinity = l2 linkage = complete k = 24,24,1800.230713503948,0.731909302369036
+420,AgglomerativeClustering,affinity = l2 linkage = average k = 24,24,1265.630919672488,0.8152395455249772
+421,AgglomerativeClustering,affinity = l2 linkage = single k = 24,24,762.5545623452908,0.7988343796573474
+422,AgglomerativeClustering,affinity = manhattan linkage = complete k = 24,24,1589.1655560261315,0.5765939529463109
+423,AgglomerativeClustering,affinity = manhattan linkage = average k = 24,24,1191.5027117181949,0.8138170545378179
+424,AgglomerativeClustering,affinity = manhattan linkage = single k = 24,24,770.0636059730211,0.7955275332826032
+425,AgglomerativeClustering,affinity = cosine linkage = complete k = 24,24,30.999432719566666,0.3911368899549634
+426,AgglomerativeClustering,affinity = cosine linkage = average k = 24,24,24.22581151896085,0.42513441381659517
+427,AgglomerativeClustering,affinity = cosine linkage = single k = 24,24,22.860220158470337,0.41420504576562533
+428,AgglomerativeClustering,affinity = euclidean linkage = ward k = 25,25,2100.4438382121207,0.5700723665882746
+429,AgglomerativeClustering,affinity = euclidean linkage = complete k = 25,25,1815.965808062005,0.7313241797608357
+430,AgglomerativeClustering,affinity = euclidean linkage = average k = 25,25,1256.8624328857402,0.8147715285116789
+431,AgglomerativeClustering,affinity = euclidean linkage = single k = 25,25,791.5512223208942,0.8008951742592051
+432,AgglomerativeClustering,affinity = l1 linkage = complete k = 25,25,1579.7271528290291,0.5759960217979585
+433,AgglomerativeClustering,affinity = l1 linkage = average k = 25,25,1198.1094230907631,0.8129385370927267
+434,AgglomerativeClustering,affinity = l1 linkage = single k = 25,25,799.9764830548471,0.7975883278844608
+435,AgglomerativeClustering,affinity = l2 linkage = complete k = 25,25,1815.965808062005,0.7313241797608357
+436,AgglomerativeClustering,affinity = l2 linkage = average k = 25,25,1256.8624328857402,0.8147715285116789
+437,AgglomerativeClustering,affinity = l2 linkage = single k = 25,25,791.5512223208942,0.8008951742592051
+438,AgglomerativeClustering,affinity = manhattan linkage = complete k = 25,25,1579.7271528290291,0.5759960217979585
+439,AgglomerativeClustering,affinity = manhattan linkage = average k = 25,25,1198.1094230907631,0.8129385370927267
+440,AgglomerativeClustering,affinity = manhattan linkage = single k = 25,25,799.9764830548471,0.7975883278844608
+441,AgglomerativeClustering,affinity = cosine linkage = complete k = 25,25,29.654665753944563,0.3911889651393984
+442,AgglomerativeClustering,affinity = cosine linkage = average k = 25,25,23.187615719168097,0.42523197824347986
+443,AgglomerativeClustering,affinity = cosine linkage = single k = 25,25,21.872433084772627,0.4126352109108031
+444,AgglomerativeClustering,affinity = euclidean linkage = ward k = 26,26,2184.0739780863187,0.5701440281747776
+445,AgglomerativeClustering,affinity = euclidean linkage = complete k = 26,26,1841.8790153852353,0.7303829708130033
+446,AgglomerativeClustering,affinity = euclidean linkage = average k = 26,26,1234.9710172807454,0.8137058791878222
+447,AgglomerativeClustering,affinity = euclidean linkage = single k = 26,26,787.4217024681302,0.7988381654863791
+448,AgglomerativeClustering,affinity = l1 linkage = complete k = 26,26,1809.8325211661474,0.56639138935922
+449,AgglomerativeClustering,affinity = l1 linkage = average k = 26,26,1223.1418030180312,0.8117936180023831
+450,AgglomerativeClustering,affinity = l1 linkage = single k = 26,26,775.4303237650181,0.7962903788607315
+451,AgglomerativeClustering,affinity = l2 linkage = complete k = 26,26,1841.8790153852353,0.7303829708130033
+452,AgglomerativeClustering,affinity = l2 linkage = average k = 26,26,1234.9710172807454,0.8137058791878222
+453,AgglomerativeClustering,affinity = l2 linkage = single k = 26,26,787.4217024681302,0.7988381654863791
+454,AgglomerativeClustering,affinity = manhattan linkage = complete k = 26,26,1809.8325211661474,0.56639138935922
+455,AgglomerativeClustering,affinity = manhattan linkage = average k = 26,26,1223.1418030180312,0.8117936180023831
+456,AgglomerativeClustering,affinity = manhattan linkage = single k = 26,26,775.4303237650181,0.7962903788607315
+457,AgglomerativeClustering,affinity = cosine linkage = complete k = 26,26,28.421870176079963,0.3887636772663133
+458,AgglomerativeClustering,affinity = cosine linkage = average k = 26,26,22.239504388085635,0.42909300356681257
+459,AgglomerativeClustering,affinity = cosine linkage = single k = 26,26,21.385867368370175,0.41280719022174556
+460,AgglomerativeClustering,affinity = euclidean linkage = ward k = 27,27,2251.5585836148616,0.5690857136320435
+461,AgglomerativeClustering,affinity = euclidean linkage = complete k = 27,27,2009.9817176574022,0.7280090138792766
+462,AgglomerativeClustering,affinity = euclidean linkage = average k = 27,27,1224.6422814017,0.8130434556043014
+463,AgglomerativeClustering,affinity = euclidean linkage = single k = 27,27,764.7090282640834,0.7975402164626497
+464,AgglomerativeClustering,affinity = l1 linkage = complete k = 27,27,1821.6720274255574,0.5636847473986412
+465,AgglomerativeClustering,affinity = l1 linkage = average k = 27,27,1212.437714300182,0.8102651675928039
+466,AgglomerativeClustering,affinity = l1 linkage = single k = 27,27,759.8368414907811,0.7947619284511522
+467,AgglomerativeClustering,affinity = l2 linkage = complete k = 27,27,2009.9817176574022,0.7280090138792766
+468,AgglomerativeClustering,affinity = l2 linkage = average k = 27,27,1224.6422814017,0.8130434556043014
+469,AgglomerativeClustering,affinity = l2 linkage = single k = 27,27,764.7090282640834,0.7975402164626497
+470,AgglomerativeClustering,affinity = manhattan linkage = complete k = 27,27,1821.6720274255574,0.5636847473986412
+471,AgglomerativeClustering,affinity = manhattan linkage = average k = 27,27,1212.437714300182,0.8102651675928039
+472,AgglomerativeClustering,affinity = manhattan linkage = single k = 27,27,759.8368414907811,0.7947619284511522
+473,AgglomerativeClustering,affinity = cosine linkage = complete k = 27,27,27.313405450517216,0.39434441994595176
+474,AgglomerativeClustering,affinity = cosine linkage = average k = 27,27,21.429893837812394,0.42806933426526866
+475,AgglomerativeClustering,affinity = cosine linkage = single k = 27,27,20.54861019964965,0.41663707840719394
+476,AgglomerativeClustering,affinity = euclidean linkage = ward k = 28,28,2334.500874461307,0.568617696618745
+477,AgglomerativeClustering,affinity = euclidean linkage = complete k = 28,28,2041.39075827996,0.7264805634696975
+478,AgglomerativeClustering,affinity = euclidean linkage = average k = 28,28,1217.385308700707,0.8115150051947221
+479,AgglomerativeClustering,affinity = euclidean linkage = single k = 28,28,750.8487087814121,0.7960117660530704
+480,AgglomerativeClustering,affinity = l1 linkage = complete k = 28,28,1952.367884065306,0.5698308109549243
+481,AgglomerativeClustering,affinity = l1 linkage = average k = 28,28,1187.2741443081193,0.8089672185690745
+482,AgglomerativeClustering,affinity = l1 linkage = single k = 28,28,740.2309729318599,0.7944318565610032
+483,AgglomerativeClustering,affinity = l2 linkage = complete k = 28,28,2041.39075827996,0.7264805634696975
+484,AgglomerativeClustering,affinity = l2 linkage = average k = 28,28,1217.385308700707,0.8115150051947221
+485,AgglomerativeClustering,affinity = l2 linkage = single k = 28,28,750.8487087814121,0.7960117660530704
+486,AgglomerativeClustering,affinity = manhattan linkage = complete k = 28,28,1952.367884065306,0.5698308109549243
+487,AgglomerativeClustering,affinity = manhattan linkage = average k = 28,28,1187.2741443081193,0.8089672185690745
+488,AgglomerativeClustering,affinity = manhattan linkage = single k = 28,28,740.2309729318599,0.7944318565610032
+489,AgglomerativeClustering,affinity = cosine linkage = complete k = 28,28,31.216907515916606,0.4044834057541192
+490,AgglomerativeClustering,affinity = cosine linkage = average k = 28,28,23.782660603961528,0.43630214109875737
+491,AgglomerativeClustering,affinity = cosine linkage = single k = 28,28,19.753757647925145,0.39400121101802776
+492,AgglomerativeClustering,affinity = euclidean linkage = ward k = 29,29,2435.8121001870873,0.5707285689773788
+493,AgglomerativeClustering,affinity = euclidean linkage = complete k = 29,29,2082.998248650998,0.7260014351517925
+494,AgglomerativeClustering,affinity = euclidean linkage = average k = 29,29,1490.2743760056849,0.767073626688995
+495,AgglomerativeClustering,affinity = euclidean linkage = single k = 29,29,732.7409806584932,0.7956816941629214
+496,AgglomerativeClustering,affinity = l1 linkage = complete k = 29,29,2021.9297341256413,0.5702149957756733
+497,AgglomerativeClustering,affinity = l1 linkage = average k = 29,29,1194.7212961388445,0.8102170561709929
+498,AgglomerativeClustering,affinity = l1 linkage = single k = 29,29,717.4648555345285,0.792485001325341
+499,AgglomerativeClustering,affinity = l2 linkage = complete k = 29,29,2082.998248650998,0.7260014351517925
+500,AgglomerativeClustering,affinity = l2 linkage = average k = 29,29,1490.2743760056849,0.767073626688995
+501,AgglomerativeClustering,affinity = l2 linkage = single k = 29,29,732.7409806584932,0.7956816941629214
+502,AgglomerativeClustering,affinity = manhattan linkage = complete k = 29,29,2021.9297341256413,0.5702149957756733
+503,AgglomerativeClustering,affinity = manhattan linkage = average k = 29,29,1194.7212961388445,0.8102170561709929
+504,AgglomerativeClustering,affinity = manhattan linkage = single k = 29,29,717.4648555345285,0.792485001325341
+505,AgglomerativeClustering,affinity = cosine linkage = complete k = 29,29,30.05298087590451,0.4041079444588297
+506,AgglomerativeClustering,affinity = cosine linkage = average k = 29,29,22.89424745476114,0.43346280181915847
+507,AgglomerativeClustering,affinity = cosine linkage = single k = 29,29,19.035775975633797,0.4011186728283361
