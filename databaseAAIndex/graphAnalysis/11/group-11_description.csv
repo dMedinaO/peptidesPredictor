@@ -1,0 +1,22 @@
+idProperty,Description
+FUKS010103,D Surface composition of amino acids in extracellular proteins of mesophiles
+RADA880103,"D Transfer free energy from vap to chx (Radzicka-Wolfenden, 1988)"
+RADA880102,"D Transfer free energy from oct to wat (Radzicka-Wolfenden, 1988)"
+RADA880105,"D Transfer free energy from vap to oct (Radzicka-Wolfenden, 1988)"
+RADA880104,"D Transfer free energy from chx to oct (Radzicka-Wolfenden, 1988)"
+KARS160122,D Weighted second smallest eigenvalue of the weighted Laplacian matrix
+NADH010105,D Hydropathy scale based on self-information values in the two-state model (25%
+NADH010104,D Hydropathy scale based on self-information values in the two-state model (20%
+NADH010106,D Hydropathy scale based on self-information values in the two-state model (36%
+PALJ810114,"D Normalized frequency of turn in all-beta class (Palau et al., 1981)"
+NADH010103,D Hydropathy scale based on self-information values in the two-state model (16%
+NADH010102,D Hydropathy scale based on self-information values in the two-state model (9%
+TANS770109,"D Normalized frequency of coil (Tanaka-Scheraga, 1977)"
+RADA880106,"D Accessible surface area (Radzicka-Wolfenden, 1988)"
+WOLS870103,"D Principal property value z3 (Wold et al., 1987)"
+PRAM820102,"D Slope in regression analysis x 1.0E1 (Prabhakaran-Ponnuswamy, 1982)"
+KARS160108,"D Average weighted degree (total degree, divided by the number of vertices)"
+QIAN880101,"D Weights for alpha-helix at the window position of -6 (Qian-Sejnowski, 1988)"
+RACS820108,"D Average relative fractional occurrence in AR(i-1) (Rackovsky-Scheraga, 1982)"
+ZIMJ680105,"D RF rank (Zimmerman et al., 1968)"
+KRIW790101,"D Side chain interaction parameter (Krigbaum-Komoriya, 1979)"

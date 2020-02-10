@@ -1,0 +1,9 @@
+idProperty,Description
+PRAM820101,"D Intercept in regression analysis (Prabhakaran-Ponnuswamy, 1982)"
+KARS160121,D Weighted average eigenvalue based on the atomic numbers
+OOBM850101,"D Optimized beta-structure-coil equilibrium constant (Oobatake et al., 1985)"
+ROSM880102,"D Side chain hydropathy, corrected for solvation (Roseman, 1988)"
+JOND920102,"D Relative mutability (Jones et al., 1992)"
+WOLS870102,"D Principal property value z2 (Wold et al., 1987)"
+PUNT030102,D Knowledge-based membrane-propensity scale from 3D_Helix in MPtopo databases
+ZIMJ680104,"D Isoelectric point (Zimmerman et al., 1968)"

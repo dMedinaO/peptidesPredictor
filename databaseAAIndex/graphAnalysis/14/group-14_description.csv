@@ -1,0 +1,5 @@
+idProperty,Description
+GEOR030105,D Linker propensity from small dataset (linker length is less than six
+MEEJ800102,"D Retention coefficient in HPLC, pH2.1 (Meek, 1980)"
+QIAN880137,"D Weights for coil at the window position of 4 (Qian-Sejnowski, 1988)"
+SNEP660101,"D Principal component I (Sneath, 1966)"
