@@ -1,0 +1,567 @@
+property,group,description,status_distribution,p_value
+GRAR740102,group-1,"D Polarity (Grantham, 1974)",T,0.06403213739395143
+GRAR740103,group-1,"D Volume (Grantham, 1974)",T,0.9103641510009766
+ROBB760104,group-1,"D Information measure for C-terminal helix (Robson-Suzuki, 1976)",F,0.00038663114537484944
+HOPT810101,group-1,"D Hydrophilicity value (Hopp-Woods, 1981)",T,0.05015473812818527
+CIDH920104,group-1,"D Normalized hydrophobicity scales for alpha/beta-proteins (Cid et al., 1992)",T,0.07456813752651215
+CIDH920105,group-1,"D Normalized average hydrophobicity scales (Cid et al., 1992)",F,0.0406525544822216
+CIDH920102,group-1,"D Normalized hydrophobicity scales for beta-proteins (Cid et al., 1992)",T,0.248663991689682
+NAKH900101,group-1,"D AA composition of total proteins (Nakashima et al., 1990)",T,0.8851825594902039
+NAKH900107,group-1,"D AA composition of mt-proteins from fungi and plant (Nakashima et al., 1990)",T,0.17309805750846866
+NAKH900109,group-1,"D AA composition of membrane proteins (Nakashima et al., 1990)",T,0.3497472107410431
+ISOY800107,group-1,"D Normalized relative frequency of double bend (Isogai et al., 1980)",T,0.15031133592128754
+CHOP780205,group-1,"D Normalized frequency of C-terminal helix (Chou-Fasman, 1978b)",T,0.732784628868103
+CHOP780204,group-1,"D Normalized frequency of N-terminal helix (Chou-Fasman, 1978b)",F,0.0005532702198252082
+BIGC670101,group-1,"D Residue volume (Bigelow, 1967)",T,0.9971975684165956
+CHOP780209,group-1,"D Normalized frequency of C-terminal beta-sheet (Chou-Fasman, 1978b)",T,0.18035189807415009
+GARJ730101,group-1,"D Partition coefficient (Garel et al., 1973)",F,5.819080115543329e-07
+LEVM760101,group-1,"D Hydrophobic parameter (Levitt, 1976)",T,0.11856748908758165
+CRAJ730102,group-1,"D Normalized frequency of beta-sheet (Crawford et al., 1973)",T,0.5797581672668457
+CRAJ730101,group-1,"D Normalized frequency of middle helix (Crawford et al., 1973)",T,0.6214152574539185
+JUNJ780101,group-1,"D Sequence frequency (Jungck, 1978)",T,0.6947500705718994
+KRIW790103,group-1,"D Side chain volume (Krigbaum-Komoriya, 1979)",T,0.9881378412246704
+FASG760101,group-1,"D Molecular weight (Fasman, 1976)",T,0.990963101387024
+GEOR030103,group-1,"D Linker propensity from 2-linker dataset (George-Heringa, 2003)",T,0.680791437625885
+GEOR030102,group-1,"D Linker propensity from 1-linker dataset (George-Heringa, 2003)",F,0.010435713455080986
+GEOR030101,group-1,"D Linker propensity from all dataset (George-Heringa, 2003)",T,0.586682140827179
+FASG760103,group-1,"D Optical rotation (Fasman, 1976)",F,0.0039539700374007225
+FODM020101,group-1,"D Propensity of amino acids within pi-helices (Fodje-Al-Karadaghi, 2002)",T,0.7585628628730774
+FAUJ880105,group-1,"D STERIMOL minimum width of the side chain (Fauchere et al., 1988)",F,3.829248271358665e-06
+FAUJ880106,group-1,"D STERIMOL maximum width of the side chain (Fauchere et al., 1988)",T,0.821430504322052
+FAUJ880103,group-1,"D Normalized van der Waals volume (Fauchere et al., 1988)",T,0.9621832370758056
+GOLD730102,group-1,"D Residue volume (Goldsack-Chalifoux, 1973)",T,0.997477114200592
+AURR980116,group-1,"D Normalized positional residue frequency at helix termini Cc (Aurora-Rose,",T,0.11853661388158797
+CHOC760101,group-1,"D Residue accessible surface area in tripeptide (Chothia, 1976)",T,0.999944031238556
+PONP800105,group-1,"D Surrounding hydrophobicity in beta-sheet (Ponnuswamy et al., 1980)",T,0.4311841428279877
+LEVM760105,group-1,"D Radius of gyration of side chain (Levitt, 1976)",T,0.9372584223747252
+LEVM760102,group-1,"D Distance between C-alpha and centroid of side chain (Levitt, 1976)",T,0.8895354270935059
+BURA740102,group-1,"D Normalized frequency of extended structure (Burgess et al., 1974)",T,0.8039138913154602
+GEIM800104,group-1,"D Alpha-helix indices for alpha/beta-proteins (Geisow-Roberts, 1980)",T,0.9222092032432556
+GEIM800103,group-1,"D Alpha-helix indices for beta-proteins (Geisow-Roberts, 1980)",T,0.2265088558197021
+RICJ880103,group-1,"D Relative preference value at N-cap (Richardson-Richardson, 1988)",F,0.001526626059785485
+QIAN880124,group-1,"D Weights for beta-sheet at the window position of 4 (Qian-Sejnowski, 1988)",T,0.6444114446640015
+FASG760102,group-1,"D Melting point (Fasman, 1976)",T,0.5794859528541565
+TSAJ990102,group-1,D Volumes not including the crystallographic waters using the ProtOr (Tsai et,T,0.9881547093391418
+TSAJ990101,group-1,"D Volumes including the crystallographic waters using the ProtOr (Tsai et al.,",T,0.9862945675849916
+OOBM850103,group-1,"D Optimized transfer energy parameter (Oobatake et al., 1985)",T,0.27962568402290344
+OOBM850102,group-1,"D Optimized propensity to form reverse turn (Oobatake et al., 1985)",F,0.00010658290557330474
+PALJ810110,group-1,"D Normalized frequency of beta-sheet in all-beta class (Palau et al., 1981)",T,0.2825137674808502
+PALJ810111,group-1,"D Normalized frequency of beta-sheet in alpha+beta class (Palau et al., 1981)",T,0.4833168685436249
+ROSM880104,group-1,"D Hydropathies of amino acid side chains, neutral form (Roseman, 1988)",T,0.5681849122047424
+ROSM880105,group-1,"D Hydropathies of amino acid side chains, pi-values in pH 7.0 (Roseman, 1988)",T,0.23234204947948456
+ROSM880103,group-1,"D Loss of Side chain hydropathy by helix formation (Roseman, 1988)",T,0.2930304706096649
+AVBF000104,group-1,"D Slopes tripeptides, LD VFF neutral (Avbelj, 2000)",F,6.121616934251506e-06
+ROSM880101,group-1,"D Side chain hydropathy, uncorrected for solvation (Roseman, 1988)",T,0.06105710566043854
+COHE430101,group-1,"D Partial specific volume (Cohn-Edsall, 1943)",T,0.1908109188079834
+KARS160117,group-1,D Total weighted atomic number of the graph (obtained by summing all the atomic,T,0.9648876786231996
+PONJ960101,group-1,"D Average volumes of residues (Pontius et al., 1996)",T,0.9577981233596802
+VHEG790101,group-1,"D Transfer free energy to lipophilic phase (von Heijne-Blomberg, 1979)",T,0.2393573671579361
+JOND920101,group-1,"D Relative frequency of occurrence (Jones et al., 1992)",T,0.9221678376197816
+PALJ810107,group-1,"D Normalized frequency of alpha-helix in all-alpha class (Palau et al., 1981)",T,0.9983342885971068
+NAKH920106,group-1,"D AA composition of CYT of multi-spanning proteins (Nakashima-Nishikawa, 1992)",T,0.5157756805419922
+WERD780103,group-1,"D Free energy change of alpha(Ri) to alpha(Rh) (Wertz-Scheraga, 1978)",F,0.007628289982676506
+PALJ810109,group-1,"D Normalized frequency of alpha-helix in alpha/beta class (Palau et al., 1981)",T,0.6836469173431396
+PALJ810108,group-1,"D Normalized frequency of alpha-helix in alpha+beta class (Palau et al., 1981)",T,0.9479660987854004
+KARS160107,group-1,"D Diameter (maximum eccentricity) (Karkbara-Knisley, 2016)",T,0.7853449583053589
+KARS160105,group-1,"D Average eccentricity (Karkbara-Knisley, 2016)",T,0.9937863945961
+KARS160104,group-1,"D Weighted domination number (Karkbara-Knisley, 2016)",T,0.26152169704437256
+KARS160103,group-1,D Total weighted degree of the graph (obtained by adding all the weights of,T,0.14367522299289706
+KARS160102,group-1,"D Number of edges (size of the graph) (Karkbara-Knisley, 2016)",T,0.1679821014404297
+KARS160101,group-1,"D Number of vertices (order of the graph) (Karkbara-Knisley, 2016)",T,0.7455923557281494
+RICJ880111,group-1,"D Relative preference value at C4 (Richardson-Richardson, 1988)",F,0.04711117595434189
+DAWD720101,group-1,"D Size (Dawson, 1972)",F,0.04918905347585678
+TANS770102,group-1,"D Normalized frequency of isolated helix (Tanaka-Scheraga, 1977)",T,0.4087753891944885
+DAYM780101,group-1,"D Amino acid composition (Dayhoff et al., 1978a)",T,0.8572523593902588
+OOBM770105,group-1,"D Short and medium range non-bonded energy per residue (Oobatake-Ooi, 1977)",T,0.8520548939704895
+PALJ810113,group-1,"D Normalized frequency of turn in all-alpha class (Palau et al., 1981)",T,0.05501885712146759
+COSI940101,group-1,"D Electron-ion interaction potential values (Cosic, 1994)",F,0.04975339025259018
+PARS000101,group-1,D p-Values of mesophilic proteins based on the distributions of B values,T,0.16462594270706174
+JUKT750101,group-1,"D Amino acid distribution (Jukes et al., 1975)",T,0.6904933452606201
+NAGK730103,group-1,"D Normalized frequency of coil (Nagano, 1973)",F,0.02083473838865757
+VASM830103,group-1,"D Relative population of conformational state E (Vasquez et al., 1983)",F,0.01816804707050324
+HARY940101,group-1,"D Mean volumes of residues buried in protein interiors (Harpaz et al., 1994)",T,0.9949093461036682
+BLAS910101,group-1,"D Scaled side chain hydrophobicity values (Black-Mould, 1991)",T,0.12176066637039185
+QIAN880103,group-1,"D Weights for alpha-helix at the window position of -4 (Qian-Sejnowski, 1988)",T,0.16980618238449094
+CEDJ970101,group-1,D Composition of amino acids in extracellular proteins (percent) (Cedano et,T,0.7778775095939636
+CEDJ970103,group-1,"D Composition of amino acids in membrane proteins (percent) (Cedano et al.,",T,0.2878898680210113
+CEDJ970102,group-1,"D Composition of amino acids in anchored proteins (percent) (Cedano et al.,",T,0.835941731929779
+CEDJ970105,group-1,"D Composition of amino acids in nuclear proteins (percent) (Cedano et al.,",T,0.3685904443264008
+CEDJ970104,group-1,D Composition of amino acids in intracellular proteins (percent) (Cedano et,T,0.6720965504646301
+CHAM820101,group-1,"D Polarizability parameter (Charton-Charton, 1982)",T,0.8308351635932922
+CASG920101,group-1,"D Hydrophobicity scale from native protein structures (Casari-Sippl, 1992)",T,0.5756054520606995
+VELV850101,group-1,"D Electron-ion interaction potential (Veljkovic et al., 1985)",F,0.049839138984680176
+LEWP710101,group-1,"D Frequency of occurrence in beta-bends (Lewis et al., 1971)",T,0.344185084104538
+QIAN880112,group-1,"D Weights for alpha-helix at the window position of 5 (Qian-Sejnowski, 1988)",T,0.8698596954345703
+CHOC750101,group-1,"D Average volume of buried residue (Chothia, 1975)",T,0.9536471962928772
+QIAN880111,group-1,"D Weights for alpha-helix at the window position of 4 (Qian-Sejnowski, 1988)",T,0.4734543263912201
+QIAN880117,group-1,"D Weights for beta-sheet at the window position of -3 (Qian-Sejnowski, 1988)",T,0.5878499150276184
+QIAN880115,group-1,"D Weights for beta-sheet at the window position of -5 (Qian-Sejnowski, 1988)",T,0.9081920981407166
+MAXF760105,group-1,"D Normalized frequency of zeta L (Maxfield-Scheraga, 1976)",F,1.5122283002710901e-05
+MAXF760106,group-1,"D Normalized frequency of alpha region (Maxfield-Scheraga, 1976)",T,0.6101165413856506
+WILM950104,group-2,"D Hydrophobicity coefficient in RP-HPLC, C18 with 0.1%TFA/2-PrOH/MeCN/H2O",T,0.7057045698165894
+WILM950103,group-2,"D Hydrophobicity coefficient in RP-HPLC, C4 with 0.1%TFA/MeCN/H2O (Wilce et al.",T,0.23072589933872226
+ROBB760109,group-2,"D Information measure for N-terminal turn (Robson-Suzuki, 1976)",T,0.3445796072483063
+ROBB760108,group-2,"D Information measure for turn (Robson-Suzuki, 1976)",F,0.039285559207201004
+OOBM770101,group-2,"D Average non-bonded energy per atom (Oobatake-Ooi, 1977)",T,0.169054314494133
+RACS770101,group-2,"D Average reduced distance for C-alpha (Rackovsky-Scheraga, 1977)",T,0.092974953353405
+RACS770102,group-2,"D Average reduced distance for side chain (Rackovsky-Scheraga, 1977)",T,0.17165528237819672
+RACS770103,group-2,"D Side chain orientational preference (Rackovsky-Scheraga, 1977)",F,0.017139645293354988
+MIYS990103,group-2,"D Optimized relative partition energies - method B (Miyazawa-Jernigan, 1999)",F,0.043745428323745734
+MIYS990102,group-2,"D Optimized relative partition energies - method A (Miyazawa-Jernigan, 1999)",F,0.015140609815716743
+MIYS990101,group-2,D Relative partition energies derived by the Bethe approximation,F,0.014313394203782082
+NAKH900103,group-2,"D AA composition of mt-proteins (Nakashima et al., 1990)",F,0.006487132981419563
+MIYS850101,group-2,"D Effective partition energy (Miyazawa-Jernigan, 1985)",F,0.014933194033801556
+NAKH900104,group-2,"D Normalized composition of mt-proteins (Nakashima et al., 1990)",T,0.423260360956192
+NAKH900105,group-2,"D AA composition of mt-proteins from animal (Nakashima et al., 1990)",F,0.003243408864364028
+CHOP780207,group-2,"D Normalized frequency of C-terminal non helical region (Chou-Fasman, 1978b)",T,0.5939069390296936
+CHOP780206,group-2,"D Normalized frequency of N-terminal non helical region (Chou-Fasman, 1978b)",T,0.8505362868309021
+FUKS010110,group-2,D Entire chain composition of amino acids in intracellular proteins of,T,0.6697117686271667
+FUKS010112,group-2,D Entire chain compositino of amino acids in nuclear proteins (percent),T,0.6768540143966675
+LEVM780101,group-2,"D Normalized frequency of alpha-helix, with weights (Levitt, 1978)",T,0.8055647611618042
+VINM940101,group-2,"D Normalized flexibility parameters (B-values), average (Vihinen et al., 1994)",T,0.09369994699954988
+RACS820103,group-2,"D Average relative fractional occurrence in AL(i) (Rackovsky-Scheraga, 1982)",F,0.0018797052325680848
+AURR980106,group-2,"D Normalized positional residue frequency at helix termini N1 (Aurora-Rose,",F,0.02065239101648331
+AURR980107,group-2,"D Normalized positional residue frequency at helix termini N2 (Aurora-Rose,",F,0.029647232964634895
+RACS820102,group-2,"D Average relative fractional occurrence in AR(i) (Rackovsky-Scheraga, 1982)",T,0.8357763886451721
+NAKH900112,group-2,"D Transmembrane regions of mt-proteins (Nakashima et al., 1990)",F,0.0006339746760204433
+RACS820104,group-2,"D Average relative fractional occurrence in EL(i) (Rackovsky-Scheraga, 1982)",F,0.0007512899464927614
+RACS820105,group-2,"D Average relative fractional occurrence in E0(i) (Rackovsky-Scheraga, 1982)",F,0.04467123746871948
+RACS820106,group-2,"D Average relative fractional occurrence in ER(i) (Rackovsky-Scheraga, 1982)",F,0.004586461465805769
+RACS820107,group-2,"D Average relative fractional occurrence in A0(i-1) (Rackovsky-Scheraga, 1982)",T,0.3229169249534607
+FUKS010101,group-2,D Surface composition of amino acids in intracellular proteins of thermophiles,F,0.0048851342871785155
+FUKS010105,group-2,D Interior composition of amino acids in intracellular proteins of thermophiles,F,0.003915962763130665
+KUMS000103,group-2,D Distribution of amino acid residues in the alpha-helices in thermophilic,T,0.2182237058877945
+CORJ870103,group-2,"D PRIFT index (Cornette et al., 1987)",T,0.07197738438844681
+KUMS000104,group-2,D Distribution of amino acid residues in the alpha-helices in mesophilic,F,0.04672916233539581
+RICJ880114,group-2,"D Relative preference value at C1 (Richardson-Richardson, 1988)",T,0.05112791806459427
+FASG760105,group-2,"D pK-C (Fasman, 1976)",T,0.18747955560684204
+MIYS990105,group-2,"D Optimized relative partition energies - method D (Miyazawa-Jernigan, 1999)",F,0.04005371779203415
+ROSG850102,group-2,"D Mean fractional area loss (Rose et al., 1985)",T,0.10685297101736067
+CHOC760102,group-2,"D Residue accessible surface area in folded protein (Chothia, 1976)",F,0.04258113354444504
+NADH010101,group-2,D Hydropathy scale based on self-information values in the two-state model (5%,T,0.170233353972435
+OOBM850104,group-2,"D Optimized average non-bonded energy per atom (Oobatake et al., 1985)",T,0.8846513032913208
+FASG890101,group-2,"D Hydrophobicity index (Fasman, 1989)",T,0.1544799655675888
+RICJ880107,group-2,"D Relative preference value at N4 (Richardson-Richardson, 1988)",T,0.16801129281520846
+FASG760104,group-2,"D pK-N (Fasman, 1976)",T,0.09446950256824492
+RICJ880105,group-2,"D Relative preference value at N2 (Richardson-Richardson, 1988)",F,0.005551657173782587
+JURD980101,group-2,"D Modified Kyte-Doolittle hydrophobicity scale (Juretic et al., 1998)",T,0.16865408420562744
+MEIH800102,group-2,"D Average reduced distance for side chain (Meirovitch et al., 1980)",T,0.4114982485771179
+MEIH800103,group-2,"D Average side chain orientation angle (Meirovitch et al., 1980)",T,0.3643934428691864
+MEIH800101,group-2,"D Average reduced distance for C-alpha (Meirovitch et al., 1980)",F,0.038728121668100364
+SUYM030101,group-2,"D Linker propensity index (Suyama-Ohara, 2003)",T,0.8652253150939941
+CHAM830108,group-2,"D A parameter of charge transfer donor capability (Charton-Charton, 1983)",F,8.099740625766573e-06
+PALJ810112,group-2,"D Normalized frequency of beta-sheet in alpha/beta class (Palau et al., 1981)",T,0.7198762297630309
+AVBF000107,group-2,"D Slopes tripeptide FDPB PARSE neutral (Avbelj, 2000)",T,0.1139937862753868
+RADA880101,group-2,"D Transfer free energy from chx to wat (Radzicka-Wolfenden, 1988)",T,0.1446792334318161
+GUYH850104,group-2,"D Apparent partition energies calculated from Janin index (Guy, 1985)",T,0.2663138210773468
+GUYH850103,group-2,"D Apparent partition energies calculated from Robson-Osguthorpe index (Guy,",T,0.13536381721496582
+GUYH850102,group-2,"D Apparent partition energies calculated from Wertz-Scheraga index (Guy, 1985)",T,0.06686558574438095
+RADA880108,group-2,"D Mean polarity (Radzicka-Wolfenden, 1988)",F,0.029797967523336414
+WERD780101,group-2,"D Propensity to be buried inside (Wertz-Scheraga, 1978)",F,0.02011664025485516
+NOZY710101,group-2,"D Transfer energy, organic solvent/water (Nozaki-Tanford, 1971)",F,0.00039617114816792315
+NISK800101,group-2,"D 8 A contact number (Nishikawa-Ooi, 1980)",T,0.37321114540100103
+FAUJ830101,group-2,"D Hydrophobic parameter pi (Fauchere-Pliska, 1983)",T,0.27083373069763184
+JANJ780101,group-2,"D Average accessible surface area (Janin et al., 1978)",T,0.07615004479885101
+TANS770108,group-2,"D Normalized frequency of zeta R (Tanaka-Scheraga, 1977)",T,0.099142424762249
+JANJ780103,group-2,"D Percentage of exposed residues (Janin et al., 1978)",T,0.12217212468385695
+JANJ780102,group-2,"D Percentage of buried residues (Janin et al., 1978)",T,0.36552849411964417
+OLSK800101,group-2,"D Average internal preferences (Olsen, 1980)",T,0.5899653434753418
+OOBM770102,group-2,"D Short and medium range non-bonded energy per atom (Oobatake-Ooi, 1977)",T,0.9012271761894226
+TANS770105,group-2,"D Normalized frequency of chain reversal S (Tanaka-Scheraga, 1977)",T,0.3244723081588745
+TANS770107,group-2,"D Normalized frequency of left-handed helix (Tanaka-Scheraga, 1977)",F,0.0005030122702009977
+ROBB790101,group-2,"D Hydration free energy (Robson-Osguthorpe, 1979)",T,0.1544674187898636
+CHOC760103,group-2,"D Proportion of residues 95% buried (Chothia, 1976)",T,0.35855194926261896
+JANJ790101,group-2,"D Ratio of buried and accessible molar fractions (Janin, 1979)",F,0.01753430999815464
+JANJ790102,group-2,"D Transfer free energy (Janin, 1979)",T,0.2411162704229355
+CHOC760104,group-2,"D Proportion of residues 100% buried (Chothia, 1976)",F,0.014756797812879087
+BIOV880102,group-2,"D Information value for accessibility; average fraction 23% (Biou et al., 1988)",T,0.4153023064136505
+BIOV880101,group-2,"D Information value for accessibility; average fraction 35% (Biou et al., 1988)",T,0.06695336848497391
+KUHL950101,group-2,"D Hydrophilicity scale (Kuhn et al., 1995)",T,0.17263951897621155
+QIAN880108,group-2,"D Weights for alpha-helix at the window position of 1 (Qian-Sejnowski, 1988)",F,0.003649151185527444
+QIAN880109,group-2,"D Weights for alpha-helix at the window position of 2 (Qian-Sejnowski, 1988)",F,0.01549903117120266
+QIAN880107,group-2,"D Weights for alpha-helix at the window position of 0 (Qian-Sejnowski, 1988)",T,0.6632338762283325
+ROBB760113,group-2,"D Information measure for loop (Robson-Suzuki, 1976)",F,0.023867446929216385
+ROBB760110,group-2,"D Information measure for middle turn (Robson-Suzuki, 1976)",T,0.07271748781204224
+BASU050101,group-2,"D Interactivity scale obtained from the contact matrix (Bastolla et al., 2005)",F,0.02455207891762257
+BASU050102,group-2,D Interactivity scale obtained by maximizing the mean of correlation,F,0.0026838395278900857
+MIYS990104,group-2,"D Optimized relative partition energies - method C (Miyazawa-Jernigan, 1999)",F,0.015535508282482626
+NISK860101,group-2,"D 14 A contact number (Nishikawa-Ooi, 1986)",F,0.014345712028443813
+KYTJ820101,group-2,"D Hydropathy index (Kyte-Doolittle, 1982)",T,0.055269356817007065
+PUNT030101,group-2,D Knowledge-based membrane-propensity scale from 1D_Helix in MPtopo databases,T,0.6479415893554688
+CORJ870106,group-3,"D ALTLS index (Cornette et al., 1987)",T,0.08137045800685883
+CORJ870107,group-3,"D TOTFT index (Cornette et al., 1987)",T,0.14093895256519318
+CORJ870104,group-3,"D PRILS index (Cornette et al., 1987)",T,0.07599863409996033
+CORJ870105,group-3,"D ALTFT index (Cornette et al., 1987)",T,0.19771574437618256
+QIAN880131,group-3,"D Weights for coil at the window position of -2 (Qian-Sejnowski, 1988)",T,0.3090924322605133
+QIAN880130,group-3,"D Weights for coil at the window position of -3 (Qian-Sejnowski, 1988)",T,0.5546243786811829
+QIAN880133,group-3,"D Weights for coil at the window position of 0 (Qian-Sejnowski, 1988)",T,0.6840965747833252
+QIAN880132,group-3,"D Weights for coil at the window position of -1 (Qian-Sejnowski, 1988)",T,0.3042230010032654
+AURR980119,group-3,"D Normalized positional residue frequency at helix termini C""' (Aurora-Rose,",F,0.030521847307682037
+CORJ870108,group-3,"D TOTLS index (Cornette et al., 1987)",T,0.06490614265203476
+KOEP990102,group-3,"D Beta-sheet propensity derived from designed sequences (Koehl-Levitt, 1999)",F,0.046654656529426575
+FAUJ880108,group-3,"D Localized electrical effect (Fauchere et al., 1988)",F,0.03344177454710007
+FAUJ880104,group-3,"D STERIMOL length of the side chain (Fauchere et al., 1988)",T,0.433362752199173
+BEGF750103,group-3,"D Conformational parameter of beta-turn (Beghin-Dirkx, 1975)",F,0.028190886601805687
+CIDH920103,group-3,"D Normalized hydrophobicity scales for alpha+beta-proteins (Cid et al., 1992)",T,0.06608990579843521
+ZASB820101,group-3,"D Dependence of partition coefficient on ionic strength (Zaslavsky et al.,",T,0.10993378609418868
+AURR980114,group-3,"D Normalized positional residue frequency at helix termini C2 (Aurora-Rose,",T,0.3081774711608887
+GOLD730101,group-3,"D Hydrophobicity factor (Goldsack-Chalifoux, 1973)",F,0.013777983374893664
+RACS820114,group-3,"D Value of theta(i-1) (Rackovsky-Scheraga, 1982)",F,0.00017244111222680658
+PALJ810101,group-3,"D Normalized frequency of alpha-helix from LG (Palau et al., 1981)",T,0.3639949560165405
+RACS820112,group-3,"D Average relative fractional occurrence in ER(i-1) (Rackovsky-Scheraga, 1982)",F,0.008251369930803776
+WERD780104,group-3,"D Free energy change of epsilon(i) to alpha(Rh) (Wertz-Scheraga, 1978)",T,0.5453165173530579
+VINM940104,group-3,D Normalized flexibility parameters (B-values) for each residue surrounded by,T,0.20417839288711548
+CHOP780203,group-3,"D Normalized frequency of beta-turn (Chou-Fasman, 1978b)",T,0.08181548118591309
+GEIM800109,group-3,"D Aperiodic indices for alpha-proteins (Geisow-Roberts, 1980)",T,0.6196981072425842
+GEIM800108,group-3,"D Aperiodic indices (Geisow-Roberts, 1980)",F,0.029983069747686383
+PTIO830101,group-3,"D Helix-coil equilibrium constant (Ptitsyn-Finkelstein, 1983)",F,0.0058255335316061965
+GEIM800107,group-3,"D Beta-strand indices for alpha/beta-proteins (Geisow-Roberts, 1980)",T,0.9675721526145936
+MANP780101,group-3,"D Average surrounding hydrophobicity (Manavalan-Ponnuswamy, 1978)",F,0.04133938252925873
+QIAN880104,group-3,"D Weights for alpha-helix at the window position of -3 (Qian-Sejnowski, 1988)",T,0.4586922526359558
+GEIM800102,group-3,"D Alpha-helix indices for alpha-proteins (Geisow-Roberts, 1980)",T,0.7171080708503723
+QIAN880126,group-3,"D Weights for beta-sheet at the window position of 6 (Qian-Sejnowski, 1988)",T,0.6516413688659668
+QIAN880127,group-3,"D Weights for coil at the window position of -6 (Qian-Sejnowski, 1988)",T,0.28029704093933105
+QIAN880125,group-3,"D Weights for beta-sheet at the window position of 5 (Qian-Sejnowski, 1988)",T,0.3391941785812378
+PRAM900104,group-3,"D Relative frequency in reverse-turn (Prabhakaran, 1990)",T,0.31834444403648376
+QIAN880123,group-3,"D Weights for beta-sheet at the window position of 3 (Qian-Sejnowski, 1988)",T,0.9745501875877379
+QIAN880120,group-3,"D Weights for beta-sheet at the window position of 0 (Qian-Sejnowski, 1988)",T,0.9924606084823608
+CHAM820102,group-3,"D Free energy of solution in water, kcal/mole (Charton-Charton, 1982)",F,0.04002508521080017
+MUNV940104,group-3,"D Free energy in beta-strand region (Munoz-Serrano, 1994)",F,1.588765917404089e-05
+LEVM780103,group-3,"D Normalized frequency of reverse turn, with weights (Levitt, 1978)",T,0.27743399143218994
+MUNV940103,group-3,"D Free energy in beta-strand conformation (Munoz-Serrano, 1994)",T,0.8174330592155457
+VINM940102,group-3,D Normalized flexibility parameters (B-values) for each residue surrounded by,F,0.04843251034617424
+VINM940103,group-3,D Normalized flexibility parameters (B-values) for each residue surrounded by,T,0.23017992079257965
+MUNV940105,group-3,"D Free energy in beta-strand region (Munoz-Serrano, 1994)",F,6.517914698633831e-06
+WIMW960101,group-3,D Free energies of transfer of AcWl-X-LL peptides from bilayer interface to,T,0.3248903155326843
+LEVM780106,group-3,"D Normalized frequency of reverse turn, unweighted (Levitt, 1978)",T,0.09806741029024124
+FINA910103,group-3,"D Helix termination parameter at posision j-2,j-1,j (Finkelstein et al., 1991)",F,0.004764594603329897
+BUNA790103,group-3,"D Spin-spin coupling constants 3JHalpha-NH (Bundi-Wuthrich, 1979)",F,3.448342249612324e-05
+RACS820113,group-3,"D Value of theta(i) (Rackovsky-Scheraga, 1982)",T,0.050638571381568916
+ZIMJ680101,group-3,"D Hydrophobicity (Zimmerman et al., 1968)",F,0.04245496168732643
+LIFS790102,group-3,"D Conformational preference for parallel beta-strands (Lifson-Sander, 1979)",F,0.0010788426734507084
+LIFS790101,group-3,"D Conformational preference for all beta-strands (Lifson-Sander, 1979)",T,0.40516549348831177
+AURR980103,group-3,"D Normalized positional residue frequency at helix termini N"" (Aurora-Rose,",T,0.1296960860490799
+PONP800106,group-3,"D Surrounding hydrophobicity in turn (Ponnuswamy et al., 1980)",T,0.10881732404232024
+WARP780101,group-3,"D Average interactions per side chain atom (Warme-Morgan, 1978)",T,0.6225281953811646
+KARS160118,group-3,D Average weighted atomic number or degree based on atomic number in the graph,T,0.13984742760658264
+CHOP780216,group-3,"D Normalized frequency of the 2nd and 3rd residues in turn (Chou-Fasman, 1978b)",T,0.24204912781715396
+KANM800102,group-3,"D Average relative probability of beta-sheet (Kanehisa-Tsong, 1980)",T,0.6802759766578674
+MAXF760101,group-3,"D Normalized frequency of alpha-helix (Maxfield-Scheraga, 1976)",T,0.9240387082099916
+MAXF760102,group-3,"D Normalized frequency of extended structure (Maxfield-Scheraga, 1976)",T,0.6747496128082275
+MAXF760103,group-3,"D Normalized frequency of zeta R (Maxfield-Scheraga, 1976)",F,0.0005225290078669786
+MAXF760104,group-3,"D Normalized frequency of left-handed alpha-helix (Maxfield-Scheraga, 1976)",F,6.9950333454471556e-06
+GEIM800110,group-3,"D Aperiodic indices for beta-proteins (Geisow-Roberts, 1980)",T,0.4399791061878204
+GEIM800111,group-3,"D Aperiodic indices for alpha/beta-proteins (Geisow-Roberts, 1980)",T,0.26756900548934937
+YUTK870104,group-4,"D Activation Gibbs energy of unfolding, pH9.0 (Yutani et al., 1987)",F,1.7218713566080623e-08
+KIDA850101,group-4,"D Hydrophobicity-related index (Kidera et al., 1985)",T,0.4889768362045288
+PONP800101,group-4,"D Surrounding hydrophobicity in folded form (Ponnuswamy et al., 1980)",F,0.024443689733743668
+ROBB760105,group-4,"D Information measure for extended (Robson-Suzuki, 1976)",T,0.2617080807685852
+YUTK870103,group-4,"D Activation Gibbs energy of unfolding, pH7.0 (Yutani et al., 1987)",F,1.2098744228694612e-08
+YUTK870102,group-4,"D Unfolding Gibbs energy in water, pH9.0 (Yutani et al., 1987)",F,0.029751110821962364
+KLEP840101,group-4,"D Net charge (Klein et al., 1984)",F,6.4682621996325915e-06
+PARJ860101,group-4,"D HPLC parameter (Parker et al., 1986)",F,0.04362190142273903
+KOEP990101,group-4,"D Alpha-helix propensity derived from designed sequences (Koehl-Levitt, 1999)",F,0.007197150029242039
+PONP930101,group-4,"D Hydrophobicity scales (Ponnuswamy, 1993)",T,0.19957563281059265
+VASM830102,group-4,"D Relative population of conformational state C (Vasquez et al., 1983)",T,0.7659677863121033
+PONP800108,group-4,"D Average number of surrounding residues (Ponnuswamy et al., 1980)",T,0.2299889028072357
+ROBB760107,group-4,"D Information measure for extended without H-bond (Robson-Suzuki, 1976)",T,0.2982117235660553
+RACS820111,group-4,"D Average relative fractional occurrence in E0(i-1) (Rackovsky-Scheraga, 1982)",T,0.3701974749565125
+RACS820110,group-4,"D Average relative fractional occurrence in EL(i-1) (Rackovsky-Scheraga, 1982)",F,0.0027491957880556588
+PONP800102,group-4,"D Average gain in surrounding hydrophobicity (Ponnuswamy et al., 1980)",T,0.16520041227340698
+PONP800103,group-4,"D Average gain ratio in surrounding hydrophobicity (Ponnuswamy et al., 1980)",T,0.3958325386047363
+WILM950102,group-4,"D Hydrophobicity coefficient in RP-HPLC, C8 with 0.1%TFA/MeCN/H2O (Wilce et al.",T,0.10043462365865707
+CORJ870101,group-4,"D NNEIG index (Cornette et al., 1987)",T,0.6571804285049438
+AURR980118,group-4,"D Normalized positional residue frequency at helix termini C"" (Aurora-Rose,",T,0.6029574275016785
+PONP800104,group-4,"D Surrounding hydrophobicity in alpha-helix (Ponnuswamy et al., 1980)",T,0.29983168840408325
+ISOY800106,group-4,"D Normalized relative frequency of helix end (Isogai et al., 1980)",T,0.2556675374507904
+GEIM800105,group-4,"D Beta-strand indices (Geisow-Roberts, 1980)",T,0.95676189661026
+KARS160106,group-4,"D Radius (minimum eccentricity) (Karkbara-Knisley, 2016)",T,0.24711889028549194
+FUKS010111,group-4,D Entire chain composition of amino acids in extracellular proteins of,T,0.6972249150276184
+ISOY800108,group-4,"D Normalized relative frequency of coil (Isogai et al., 1980)",F,1.7495747670182027e-05
+PRAM900101,group-4,"D Hydrophobicity (Prabhakaran, 1990)",F,0.007168494164943695
+PRAM900103,group-4,"D Relative frequency in beta-sheet (Prabhakaran, 1990)",T,0.2304385006427765
+KARS160120,group-4,D Weighted minimum eigenvalue based on the atomic numbers,F,5.171449402041618e-07
+NAKH920107,group-4,"D AA composition of EXT of multi-spanning proteins (Nakashima-Nishikawa, 1992)",T,0.3866168558597565
+LEVM780102,group-4,"D Normalized frequency of beta-sheet, with weights (Levitt, 1978)",T,0.2304385006427765
+MUNV940102,group-4,"D Free energy in alpha-helical region (Munoz-Serrano, 1994)",F,0.006325467955321074
+PLIV810101,group-4,"D Partition coefficient (Pliska et al., 1981)",F,0.016677141189575195
+QIAN880128,group-4,"D Weights for coil at the window position of -5 (Qian-Sejnowski, 1988)",T,0.7136592268943787
+MUNV940101,group-4,"D Free energy in alpha-helical conformation (Munoz-Serrano, 1994)",F,0.004227431025356054
+WOLS870101,group-4,"D Principal property value z1 (Wold et al., 1987)",F,0.02006771229207516
+FINA910101,group-4,"D Helix initiation parameter at posision i-1 (Finkelstein et al., 1991)",F,4.5830372982891276e-05
+ZIMJ680103,group-4,"D Polarity (Zimmerman et al., 1968)",F,2.231645567007945e-06
+TANS770106,group-4,"D Normalized frequency of chain reversal D (Tanaka-Scheraga, 1977)",T,0.6449664831161499
+KARS160113,group-4,"D Weighted domination number using the atomic number (Karkbara-Knisley, 2016)",T,0.16953453421592712
+WERD780102,group-4,"D Free energy change of epsilon(i) to epsilon(ex) (Wertz-Scheraga, 1978)",F,0.0038856032770127062
+WEBA780101,group-4,"D RF value in high salt chromatography (Weber-Lacey, 1978)",F,0.0002713929279707372
+ZHOH040101,group-4,"D The stability scale from the knowledge-based atom-atom potential (Zhou-Zhou,",F,0.02489805966615677
+ZHOH040102,group-4,"D The relative stability scale extracted from mutation experiments (Zhou-Zhou,",T,0.3941726386547089
+VENT840101,group-4,"D Bitterness (Venanzi, 1984)",F,1.8570412976259831e-06
+ENGD860101,group-4,"D Hydrophobicity index (Engelman et al., 1986)",F,0.0071477112360298625
+QIAN880119,group-4,"D Weights for beta-sheet at the window position of -1 (Qian-Sejnowski, 1988)",T,0.4427783787250519
+KARS160111,group-4,D Average eigenvalue of the Laplacian matrix of the the graph,F,0.039273273199796684
+KARS160112,group-4,D Second smallest eigenvalue of the Laplacian matrix of the graph,T,0.5186312794685364
+WOLR810101,group-4,"D Hydration potential (Wolfenden et al., 1981)",T,0.08001931011676787
+KARS160114,group-4,D Average weighted eccentricity based on the the atomic number,T,0.8347107768058777
+KARS160115,group-4,D Weighted radius based on the atomic number (minimum eccentricity),T,0.1327645480632782
+KARS160116,group-4,D Weighted diameter based on the atomic number (maximum eccentricity),T,0.4437817633152008
+GUYH850105,group-5,"D Apparent partition energies calculated from Chothia index (Guy, 1985)",T,0.26202720403671265
+NAKH920101,group-5,"D AA composition of CYT of single-spanning proteins (Nakashima-Nishikawa, 1992)",T,0.32603734731674194
+NAKH920102,group-5,"D AA composition of CYT2 of single-spanning proteins (Nakashima-Nishikawa,",T,0.7589014172554016
+GEOR030104,group-5,"D Linker propensity from 3-linker dataset (George-Heringa, 2003)",F,0.04377255216240883
+ARGP820101,group-5,"D Hydrophobicity index (Argos et al., 1982)",T,0.10351470857858658
+RADA880107,group-5,"D Energy transfer from out to in(95%buried) (Radzicka-Wolfenden, 1988)",T,0.05626711994409561
+RICJ880116,group-5,"D Relative preference value at C' (Richardson-Richardson, 1988)",T,0.7645431756973267
+RICJ880117,group-5,"D Relative preference value at C"" (Richardson-Richardson, 1988)",T,0.20981130003929135
+EISD860101,group-5,"D Solvation free energy (Eisenberg-McLachlan, 1986)",T,0.7451232075691223
+FAUJ880109,group-5,"D Number of hydrogen bond donors (Fauchere et al., 1988)",F,0.00033649019314907486
+ROSG850101,group-5,"D Mean area buried on transfer (Rose et al., 1985)",T,0.7730420231819153
+TANS770110,group-5,"D Normalized frequency of chain reversal (Tanaka-Scheraga, 1977)",T,0.4541578888893128
+FAUJ880101,group-5,"D Graph shape index (Fauchere et al., 1988)",T,0.7378873825073242
+KANM800103,group-5,"D Average relative probability of inner helix (Kanehisa-Tsong, 1980)",T,0.8458525538444519
+PALJ810106,group-5,"D Normalized frequency of turn from CF (Palau et al., 1981)",F,0.017837010324001312
+NAKH900106,group-5,"D Normalized composition from animal (Nakashima et al., 1990)",T,0.3376232385635376
+AURR980110,group-5,"D Normalized positional residue frequency at helix termini N5 (Aurora-Rose,",T,0.2665841579437256
+NADH010107,group-5,D Hydropathy scale based on self-information values in the two-state model (50%,T,0.4871227145195007
+JOND750101,group-5,"D Hydrophobicity (Jones, 1975)",T,0.10514914989471437
+ISOY800103,group-5,"D Normalized relative frequency of bend (Isogai et al., 1980)",T,0.5281752347946167
+ISOY800102,group-5,"D Normalized relative frequency of extended structure (Isogai et al., 1980)",T,0.3079379200935364
+KARS160109,group-5,D Maximum eigenvalue of the weighted Laplacian matrix of the graph,F,0.002817019820213318
+FUKS010104,group-5,D Surface composition of amino acids in nuclear proteins (percent),T,0.2285001128911972
+BASU050103,group-5,D Interactivity scale obtained by maximizing the mean of correlation,T,0.06185534596443176
+BULH740101,group-5,"D Transfer free energy to surface (Bull-Breese, 1974)",F,0.003656999440863729
+CHOP780101,group-5,"D Normalized frequency of beta-turn (Chou-Fasman, 1978a)",T,0.08181548118591309
+RICJ880106,group-5,"D Relative preference value at N3 (Richardson-Richardson, 1988)",F,0.0002633615513332188
+OOBM770103,group-5,"D Long range non-bonded energy per atom (Oobatake-Ooi, 1977)",T,0.6736200451850891
+RICJ880108,group-5,"D Relative preference value at N5 (Richardson-Richardson, 1988)",T,0.9597785472869872
+MONM990201,group-5,"D Averaged turn propensities in a transmembrane helix (Monne et al., 1999)",F,0.03718805685639381
+PALJ810115,group-5,"D Normalized frequency of turn in alpha+beta class (Palau et al., 1981)",T,0.5108196735382079
+TANS770101,group-5,"D Normalized frequency of alpha-helix (Tanaka-Scheraga, 1977)",T,0.661533534526825
+SIMZ760101,group-5,"D Transfer free energy (Simon, 1976), Cited by Charton-Charton (1982)",F,0.021218400448560715
+YANJ020101,group-5,"D Side-chain conformation by gaussian evolutionary method (Yang et al., 2002)",F,9.113564738072456e-05
+KARP850103,group-5,"D Flexibility parameter for two rigid neighbors (Karplus-Schulz, 1985)",F,0.006451343651860952
+FAUJ880113,group-5,"D pK-a(RCOOH) (Fauchere et al., 1988)",F,0.0003441957524046302
+AVBF000109,group-5,"D Slopes proteins, FDPB VFF neutral (Avbelj, 2000)",F,0.021021155640482903
+RACS820109,group-5,"D Average relative fractional occurrence in AL(i-1) (Rackovsky-Scheraga, 1982)",F,1.0182719961449037e-05
+AVBF000101,group-5,"D Screening coefficients gamma, local (Avbelj, 2000)",T,0.9728260040283204
+CHAM830105,group-5,"D The number of atoms in the side chain labelled 3+1 (Charton-Charton, 1983)",F,4.658511898014695e-05
+CHOP780212,group-5,"D Frequency of the 1st residue in turn (Chou-Fasman, 1978b)",F,0.015487371012568476
+EISD840101,group-5,"D Consensus normalized hydrophobicity scale (Eisenberg, 1984)",T,0.3093228936195373
+CHAM830102,group-5,D A parameter defined from the residuals obtained from the best correlation of,T,0.7486218810081482
+ROBB760103,group-6,"D Information measure for middle helix (Robson-Suzuki, 1976)",F,0.004735141992568971
+ROBB760102,group-6,"D Information measure for N-terminal helix (Robson-Suzuki, 1976)",F,0.0063776918686926365
+YUTK870101,group-6,"D Unfolding Gibbs energy in water, pH7.0 (Yutani et al., 1987)",T,0.09545740485191344
+WILM950101,group-6,"D Hydrophobicity coefficient in RP-HPLC, C18 with 0.1%TFA/MeCN/H2O (Wilce et",T,0.2341689467430115
+ROBB760106,group-6,"D Information measure for pleated-sheet (Robson-Suzuki, 1976)",T,0.6161190271377563
+NAKH920108,group-6,"D AA composition of MEM of multi-spanning proteins (Nakashima-Nishikawa, 1992)",F,0.0037160369101911775
+AVBF000106,group-6,"D Slopes tripeptide FDPB VFF all (Avbelj, 2000)",T,0.70099937915802
+HUTJ700103,group-6,"D Entropy of formation (Hutchens, 1970)",T,0.10491572320461273
+KHAG800101,group-6,"D The Kerr-constant increments (Khanarian-Moore, 1980)",F,0.012917526066303251
+RICJ880113,group-6,"D Relative preference value at C2 (Richardson-Richardson, 1988)",T,0.13826052844524386
+NAKH920105,group-6,"D AA composition of MEM of single-spanning proteins (Nakashima-Nishikawa, 1992)",F,0.0005573172820731997
+EISD860103,group-6,"D Direction of hydrophobic moment (Eisenberg-McLachlan, 1986)",F,0.0024871607311069965
+DESM900102,group-6,"D Average membrane preference: AMP07 (Degli Esposti et al., 1990)",T,0.09039222449064256
+NAKH920104,group-6,"D AA composition of EXT2 of single-spanning proteins (Nakashima-Nishikawa,",T,0.6914465427398682
+CIDH920101,group-6,"D Normalized hydrophobicity scales for alpha-proteins (Cid et al., 1992)",F,0.02415468357503414
+AURR980115,group-6,"D Normalized positional residue frequency at helix termini C1 (Aurora-Rose,",T,0.2904431521892548
+VASM830101,group-6,"D Relative population of conformational state A (Vasquez et al., 1983)",T,0.7596363425254822
+AURR980111,group-6,"D Normalized positional residue frequency at helix termini C5 (Aurora-Rose,",T,0.8401188850402832
+HUTJ700102,group-6,"D Absolute entropy (Hutchens, 1970)",T,0.986681878566742
+FINA770101,group-6,"D Helix-coil equilibrium constant (Finkelstein-Ptitsyn, 1977)",T,0.2049954384565353
+TANS770104,group-6,"D Normalized frequency of chain reversal R (Tanaka-Scheraga, 1977)",F,4.306760092731565e-05
+LEVM760106,group-6,"D van der Waals parameter R0 (Levitt, 1976)",T,0.325531542301178
+ISOY800105,group-6,"D Normalized relative frequency of bend S (Isogai et al., 1980)",F,0.011504278518259524
+BURA740101,group-6,"D Normalized frequency of alpha-helix (Burgess et al., 1974)",T,0.4369126856327057
+DESM900101,group-6,"D Membrane preference for cytochrome b: MPH89 (Degli Esposti et al., 1990)",T,0.3340167701244354
+PALJ810116,group-6,"D Normalized frequency of turn in alpha/beta class (Palau et al., 1981)",T,0.2171156704425812
+BULH740102,group-6,"D Apparent partial specific volume (Bull-Breese, 1974)",T,0.6490650773048401
+RICJ880109,group-6,"D Relative preference value at Mid (Richardson-Richardson, 1988)",T,0.9906949996948242
+FINA910104,group-6,"D Helix termination parameter at posision j+1 (Finkelstein et al., 1991)",F,0.0001452980941394344
+WOLR790101,group-6,"D Hydrophobicity index (Wolfenden et al., 1979)",F,0.046598002314567566
+AVBF000102,group-6,"D Screening coefficients gamma, non-local (Avbelj, 2000)",F,0.007646371144801378
+NAKH900111,group-6,"D Transmembrane regions of non-mt-proteins (Nakashima et al., 1990)",F,0.0019348950590938328
+PRAM820103,group-6,"D Correlation coefficient in regression analysis (Prabhakaran-Ponnuswamy, 1982)",T,0.07518302649259567
+CHAM830103,group-6,"D The number of atoms in the side chain labelled 1+1 (Charton-Charton, 1983)",F,0.0001111270976252854
+JACR890101,group-6,"D Weights from the IFH scale (Jacobs-White, 1989)",F,0.00048004699056036765
+CHAM830107,group-6,"D A parameter of charge transfer capability (Charton-Charton, 1983)",F,2.8887450298498147e-07
+KRIW790102,group-6,"D Fraction of site occupied by water (Krigbaum-Komoriya, 1979)",T,0.4274488389492035
+CHOP780213,group-6,"D Frequency of the 2nd residue in turn (Chou-Fasman, 1978b)",F,0.0003411288489587605
+KARS160110,group-6,D Minimum eigenvalue of the weighted Laplacian matrix of the graph,F,0.01497716922312975
+QIAN880116,group-6,"D Weights for beta-sheet at the window position of -4 (Qian-Sejnowski, 1988)",T,0.779798686504364
+FUKS010108,group-6,D Interior composition of amino acids in nuclear proteins (percent),F,0.0004702912992797792
+GEOR030107,group-7,D Linker propensity from long dataset (linker length is greater than 14,T,0.7673382759094238
+ROBB760101,group-7,"D Information measure for alpha-helix (Robson-Suzuki, 1976)",T,0.7248573303222656
+KUMS000101,group-7,D Distribution of amino acid residues in the 18 non-redundant families of,T,0.8864451050758362
+SNEP660104,group-7,"D Principal component IV (Sneath, 1966)",T,0.7710222005844116
+SNEP660102,group-7,"D Principal component II (Sneath, 1966)",T,0.7487135529518127
+GEOR030106,group-7,D Linker propensity from medium dataset (linker length is between six and 14,T,0.5377663969993591
+BHAR880101,group-7,"D Average flexibility indices (Bhaskaran-Ponnuswamy, 1988)",T,0.07460179179906845
+QIAN880139,group-7,"D Weights for coil at the window position of 6 (Qian-Sejnowski, 1988)",T,0.8926429152488708
+QIAN880138,group-7,"D Weights for coil at the window position of 5 (Qian-Sejnowski, 1988)",T,0.15493176877498627
+GEOR030108,group-7,"D Linker propensity from helical (annotated by DSSP) dataset (George-Heringa,",T,0.8899294137954712
+BAEK050101,group-7,"D Linker index (Bae et al., 2005)",T,0.6545019149780273
+NAKH900113,group-7,"D Ratio of average and computed composition (Nakashima et al., 1990)",F,0.0033344423864036803
+FAUJ880107,group-7,"D N.m.r. chemical shift of alpha-carbon (Fauchere et al., 1988)",T,0.11375771462917328
+BEGF750101,group-7,"D Conformational parameter of inner helix (Beghin-Dirkx, 1975)",T,0.2988204658031464
+FAUJ880102,group-7,"D Smoothed upsilon steric parameter (Fauchere et al., 1988)",F,0.0009591379202902316
+PALJ810102,group-7,"D Normalized frequency of alpha-helix from CF (Palau et al., 1981)",T,0.5842187404632568
+JOND750102,group-7,"D pK (-COOH) (Jones, 1975)",F,0.002130339853465557
+CHOP780201,group-7,"D Normalized frequency of alpha-helix (Chou-Fasman, 1978b)",T,0.3492327928543091
+ISOY800101,group-7,"D Normalized relative frequency of alpha-helix (Isogai et al., 1980)",T,0.941139042377472
+RICJ880115,group-7,"D Relative preference value at C-cap (Richardson-Richardson, 1988)",F,2.674495590326842e-05
+QIAN880102,group-7,"D Weights for alpha-helix at the window position of -5 (Qian-Sejnowski, 1988)",T,0.5340391993522644
+QIAN880105,group-7,"D Weights for alpha-helix at the window position of -2 (Qian-Sejnowski, 1988)",T,0.20893186330795288
+QIAN880106,group-7,"D Weights for alpha-helix at the window position of -1 (Qian-Sejnowski, 1988)",T,0.1415722817182541
+PARS000102,group-7,D p-Values of thermophilic proteins based on the distributions of B values,T,0.3876111805438995
+AURR980104,group-7,"D Normalized positional residue frequency at helix termini N'(Aurora-Rose,",T,0.32821157574653625
+DIGM050101,group-7,"D Hydrostatic pressure asymmetry index, PAI (Di Giulio, 2005)",T,0.7024059295654297
+AVBF000108,group-7,"D Slopes dekapeptide, FDPB VFF neutral (Avbelj, 2000)",F,0.007645105943083762
+QIAN880129,group-7,"D Weights for coil at the window position of -4 (Qian-Sejnowski, 1988)",T,0.23425988852977755
+MEEJ810102,group-7,"D Retention coefficient in NaH2PO4 (Meek-Rossetti, 1981)",F,0.03705598041415215
+KUMS000102,group-7,D Distribution of amino acid residues in the 18 non-redundant families of,T,0.6518270373344421
+TANS770103,group-7,"D Normalized frequency of extended structure (Tanaka-Scheraga, 1977)",T,0.4660331606864929
+OOBM770104,group-7,"D Average non-bonded energy per residue (Oobatake-Ooi, 1977)",T,0.1178913190960884
+MEEJ810101,group-7,"D Retention coefficient in NaClO4 (Meek-Rossetti, 1981)",T,0.08395471423864365
+RACS820101,group-7,"D Average relative fractional occurrence in A0(i) (Rackovsky-Scheraga, 1982)",T,0.06308047473430634
+OOBM850105,group-7,"D Optimized side chain interaction parameter (Oobatake et al., 1985)",T,0.5998100638389587
+AURR980105,group-7,"D Normalized positional residue frequency at helix termini Nc (Aurora-Rose,",T,0.6366086006164551
+AURR980101,group-7,"D Normalized positional residue frequency at helix termini N4'(Aurora-Rose,",T,0.8954997658729553
+MITS020101,group-7,"D Amphiphilicity index (Mitaku et al., 2002)",F,8.499217074131591e-06
+TAKK010101,group-7,"D Side-chain contribution to protein stability (kJ/mol) (Takano-Yutani, 2001)",T,0.2949742376804352
+KANM800101,group-7,"D Average relative probability of helix (Kanehisa-Tsong, 1980)",T,0.9763913154602052
+MEEJ800101,group-8,"D Retention coefficient in HPLC, pH7.4 (Meek, 1980)",T,0.58636474609375
+QIAN880136,group-8,"D Weights for coil at the window position of 3 (Qian-Sejnowski, 1988)",F,0.025409828871488568
+NAGK730102,group-8,"D Normalized frequency of bata-structure (Nagano, 1973)",T,0.9091265201568604
+PTIO830102,group-8,"D Beta-coil equilibrium constant (Ptitsyn-Finkelstein, 1983)",F,0.014902801252901552
+GUOD860101,group-8,"D Retention coefficient at pH 2 (Guo et al., 1986)",F,0.04391705244779587
+ZIMJ680102,group-8,"D Bulkiness (Zimmerman et al., 1968)",T,0.20397621393203733
+BLAM930101,group-8,"D Alpha helix propensity of position 44 in T4 lysozyme (Blaber et al., 1993)",F,3.7071245628794713e-07
+AURR980113,group-8,"D Normalized positional residue frequency at helix termini C3 (Aurora-Rose,",T,0.9565572142601012
+AURR980112,group-8,"D Normalized positional residue frequency at helix termini C4 (Aurora-Rose,",T,0.5824503302574158
+PONP800107,group-8,"D Accessibility reduction ratio (Ponnuswamy et al., 1980)",F,0.004650781862437725
+LEVM760104,group-8,"D Side chain torsion angle phi(AAAR) (Levitt, 1976)",F,8.614615944679825e-05
+LEVM760103,group-8,"D Side chain angle theta(AAR) (Levitt, 1976)",F,6.025130261377852e-08
+CHOP780208,group-8,"D Normalized frequency of N-terminal beta-sheet (Chou-Fasman, 1978b)",T,0.4348996877670288
+FUKS010106,group-8,D Interior composition of amino acids in intracellular proteins of mesophiles,F,0.003073298605158925
+ROBB760112,group-8,"D Information measure for coil (Robson-Suzuki, 1976)",T,0.20947666466236115
+RICJ880102,group-8,"D Relative preference value at N' (Richardson-Richardson, 1988)",T,0.7397494912147522
+RICJ880101,group-8,"D Relative preference value at N"" (Richardson-Richardson, 1988)",T,0.7397494912147522
+ROBB760111,group-8,"D Information measure for C-terminal turn (Robson-Suzuki, 1976)",T,0.7868556976318359
+FINA910102,group-8,"D Helix initiation parameter at posision i,i+1,i+2 (Finkelstein et al., 1991)",F,7.443948124574717e-09
+BUNA790102,group-8,"D alpha-CH chemical shifts (Bundi-Wuthrich, 1979)",T,0.5077565312385559
+BUNA790101,group-8,"D alpha-NH chemical shifts (Bundi-Wuthrich, 1979)",F,7.236482524319855e-09
+KARS160119,group-8,D Weighted maximum eigenvalue based on the atomic numbers,F,0.0009114632266573608
+WOEC730101,group-8,"D Polar requirement (Woese, 1973)",F,0.02289772406220436
+FUKS010107,group-8,D Interior composition of amino acids in extracellular proteins of mesophiles,F,0.03922943770885468
+KRIW710101,group-8,"D Side chain interaction parameter (Krigbaum-Rubin, 1971)",T,0.4882609844207764
+CHOP780214,group-8,"D Frequency of the 3rd residue in turn (Chou-Fasman, 1978b)",F,0.04665203019976616
+CHOP780215,group-8,"D Frequency of the 4th residue in turn (Chou-Fasman, 1978b)",F,0.01871007494628429
+QIAN880114,group-8,"D Weights for beta-sheet at the window position of -6 (Qian-Sejnowski, 1988)",T,0.37651094794273376
+QIAN880113,group-8,"D Weights for alpha-helix at the window position of 6 (Qian-Sejnowski, 1988)",T,0.7081311345100403
+ONEK900102,group-8,"D Helix formation parameters (delta delta G) (O'Neil-DeGrado, 1990)",F,3.946831839130027e-07
+ONEK900101,group-8,"D Delta G values for the peptides extrapolated to 0 M urea (O'Neil-DeGrado,",F,8.173049536708278e-06
+QIAN880135,group-9,"D Weights for coil at the window position of 2 (Qian-Sejnowski, 1988)",T,0.08501164615154266
+QIAN880134,group-9,"D Weights for coil at the window position of 1 (Qian-Sejnowski, 1988)",F,0.01707349345088005
+GUYH850101,group-9,"D Partition energy (Guy, 1985)",T,0.7550312280654907
+NAGK730101,group-9,"D Normalized frequency of alpha-helix (Nagano, 1973)",T,0.5095998048782349
+GRAR740101,group-9,"D Composition (Grantham, 1974)",F,0.0023874598555266857
+GEOR030109,group-9,D Linker propensity from non-helical (annotated by DSSP) dataset,F,4.977072421752382e-06
+SNEP660103,group-9,"D Principal component III (Sneath, 1966)",F,0.013483385555446148
+NAKH900102,group-9,"D SD of AA composition of total proteins (Nakashima et al., 1990)",T,0.5687274932861328
+AURR980117,group-9,"D Normalized positional residue frequency at helix termini C' (Aurora-Rose,",F,0.00020563809084706008
+PALJ810103,group-9,"D Normalized frequency of beta-sheet from LG (Palau et al., 1981)",T,0.7416496872901917
+CHAM810101,group-9,"D Steric parameter (Charton, 1981)",F,0.007482076995074748
+QIAN880121,group-9,"D Weights for beta-sheet at the window position of 1 (Qian-Sejnowski, 1988)",T,0.9937448501586914
+LEVM760107,group-9,"D van der Waals parameter epsilon (Levitt, 1976)",F,0.0013230862095952036
+GEIM800101,group-9,"D Alpha-helix indices (Geisow-Roberts, 1980)",T,0.2244340181350708
+SUEM840101,group-9,"D Zimm-Bragg parameter s at 20 C (Sueki et al., 1984)",T,0.5116711854934692
+PRAM900102,group-9,"D Relative frequency in alpha-helix (Prabhakaran, 1990)",T,0.8055647611618042
+QIAN880122,group-9,"D Weights for beta-sheet at the window position of 2 (Qian-Sejnowski, 1988)",T,0.7579019665718079
+RICJ880104,group-9,"D Relative preference value at N1 (Richardson-Richardson, 1988)",F,0.0015518178697675467
+LEVM780104,group-9,"D Normalized frequency of alpha-helix, unweighted (Levitt, 1978)",T,0.3898816108703613
+LEVM780105,group-9,"D Normalized frequency of beta-sheet, unweighted (Levitt, 1978)",T,0.2827712893486023
+FAUJ880110,group-9,"D Number of full nonbonding orbitals (Fauchere et al., 1988)",F,0.0006399525445885956
+MONM990101,group-9,"D Turn propensity scale for transmembrane helices (Monne et al., 1999)",F,0.00038861957727931434
+CRAJ730103,group-9,"D Normalized frequency of turn (Crawford et al., 1973)",T,0.17471995949745178
+KANM800104,group-9,"D Average relative probability of inner beta-sheet (Kanehisa-Tsong, 1980)",T,0.08747503161430359
+COWR900101,group-9,"D Hydrophobicity index, 3.0 pH (Cowan-Whittaker, 1990)",T,0.3228084444999695
+KIMC930101,group-9,"D Thermodynamic beta sheet propensity (Kim-Berg, 1993)",F,0.000494501437060535
+QIAN880118,group-9,"D Weights for beta-sheet at the window position of -2 (Qian-Sejnowski, 1988)",T,0.2119041234254837
+FUKS010109,group-9,D Entire chain composition of amino acids in intracellular proteins of,T,0.443295955657959
+MCMT640101,group-9,"D Refractivity (McMeekin et al., 1964), Cited by Jones (1975)",T,0.9275862574577332
+CORJ870102,group-10,"D SWEIG index (Cornette et al., 1987)",F,0.03995731845498085
+BEGF750102,group-10,"D Conformational parameter of beta-structure (Beghin-Dirkx, 1975)",F,0.027454040944576263
+PALJ810105,group-10,"D Normalized frequency of turn from LG (Palau et al., 1981)",T,0.19010747969150546
+PALJ810104,group-10,"D Normalized frequency of beta-sheet from CF (Palau et al., 1981)",T,0.4852632880210877
+SUEM840102,group-10,"D Zimm-Bragg parameter sigma x 1.0E4 (Sueki et al., 1984)",F,0.002490575658157468
+FAUJ880112,group-10,"D Negative charge (Fauchere et al., 1988)",F,1.8460101003370252e-08
+SWER830101,group-10,"D Optimal matching hydrophobicity (Sweet-Eisenberg, 1983)",F,0.042714018374681466
+CHOP780202,group-10,"D Normalized frequency of beta-sheet (Chou-Fasman, 1978b)",T,0.896596372127533
+CHOP780211,group-10,"D Normalized frequency of C-terminal non beta region (Chou-Fasman, 1978b)",T,0.159223735332489
+GEIM800106,group-10,"D Beta-strand indices for beta-proteins (Geisow-Roberts, 1980)",T,0.17748041450977325
+BROC820102,group-10,"D Retention coefficient in HFBA (Browne et al., 1982)",T,0.4086363315582275
+BROC820101,group-10,"D Retention coefficient in TFA (Browne et al., 1982)",T,0.06831232458353043
+KARP850101,group-10,"D Flexibility parameter for no rigid neighbors (Karplus-Schulz, 1985)",T,0.2549240291118622
+KARP850102,group-10,"D Flexibility parameter for one rigid neighbor (Karplus-Schulz, 1985)",T,0.1490400731563568
+LAWE840101,group-10,"D Transfer free energy, CHP/water (Lawson et al., 1984)",T,0.19339025020599365
+LIFS790103,group-10,"D Conformational preference for antiparallel beta-strands (Lifson-Sander, 1979)",T,0.5494006872177124
+FAUJ880111,group-10,"D Positive charge (Fauchere et al., 1988)",F,8.316843747024906e-08
+AURR980102,group-10,"D Normalized positional residue frequency at helix termini N""' (Aurora-Rose,",T,0.056691505014896386
+AURR980108,group-10,"D Normalized positional residue frequency at helix termini N3 (Aurora-Rose,",T,0.2287253439426422
+AURR980109,group-10,"D Normalized positional residue frequency at helix termini N4 (Aurora-Rose,",T,0.5673725605010986
+FUKS010102,group-10,D Surface composition of amino acids in intracellular proteins of mesophiles,T,0.4717563390731812
+CHOP780210,group-10,"D Normalized frequency of N-terminal non beta region (Chou-Fasman, 1978b)",T,0.5307129621505737
+ZHOH040103,group-10,"D Buriability (Zhou-Zhou, 2004)",F,0.008890146389603615
+QIAN880110,group-10,"D Weights for alpha-helix at the window position of 3 (Qian-Sejnowski, 1988)",T,0.19003313779830933
+FUKS010103,group-11,D Surface composition of amino acids in extracellular proteins of mesophiles,F,0.02722744457423687
+RADA880103,group-11,"D Transfer free energy from vap to chx (Radzicka-Wolfenden, 1988)",T,0.7882766723632812
+RADA880102,group-11,"D Transfer free energy from oct to wat (Radzicka-Wolfenden, 1988)",T,0.17718751728534698
+RADA880105,group-11,"D Transfer free energy from vap to oct (Radzicka-Wolfenden, 1988)",T,0.05299219861626625
+RADA880104,group-11,"D Transfer free energy from chx to oct (Radzicka-Wolfenden, 1988)",F,0.029262134805321693
+KARS160122,group-11,D Weighted second smallest eigenvalue of the weighted Laplacian matrix,F,0.0039181639440357685
+NADH010105,group-11,D Hydropathy scale based on self-information values in the two-state model (25%,T,0.1842544674873352
+NADH010104,group-11,D Hydropathy scale based on self-information values in the two-state model (20%,T,0.2253880649805069
+NADH010106,group-11,D Hydropathy scale based on self-information values in the two-state model (36%,T,0.27626973390579224
+PALJ810114,group-11,"D Normalized frequency of turn in all-beta class (Palau et al., 1981)",T,0.9970097541809082
+NADH010103,group-11,D Hydropathy scale based on self-information values in the two-state model (16%,T,0.3482170104980469
+NADH010102,group-11,D Hydropathy scale based on self-information values in the two-state model (9%,T,0.3251649439334869
+TANS770109,group-11,"D Normalized frequency of coil (Tanaka-Scheraga, 1977)",F,0.0010882968781515958
+RADA880106,group-11,"D Accessible surface area (Radzicka-Wolfenden, 1988)",T,0.5866522192955017
+WOLS870103,group-11,"D Principal property value z3 (Wold et al., 1987)",T,0.7123223543167114
+PRAM820102,group-11,"D Slope in regression analysis x 1.0E1 (Prabhakaran-Ponnuswamy, 1982)",T,0.4472002685070038
+KARS160108,group-11,"D Average weighted degree (total degree, divided by the number of vertices)",F,0.0005064838915131986
+QIAN880101,group-11,"D Weights for alpha-helix at the window position of -6 (Qian-Sejnowski, 1988)",T,0.4955504238605499
+RACS820108,group-11,"D Average relative fractional occurrence in AR(i-1) (Rackovsky-Scheraga, 1982)",F,0.047723866999149316
+ZIMJ680105,group-11,"D RF rank (Zimmerman et al., 1968)",F,0.041176754981279366
+KRIW790101,group-11,"D Side chain interaction parameter (Krigbaum-Komoriya, 1979)",T,0.2412329465150833
+NAKH900110,group-12,"D Normalized composition of membrane proteins (Nakashima et al., 1990)",T,0.363022655248642
+NAKH920103,group-12,"D AA composition of EXT of single-spanning proteins (Nakashima-Nishikawa, 1992)",T,0.6764287948608398
+HUTJ700101,group-12,"D Heat capacity (Hutchens, 1970)",T,0.9822317361831664
+AVBF000103,group-12,"D Slopes tripeptide, FDPB VFF neutral (Avbelj, 2000)",T,0.11084529012441637
+CHAM830101,group-12,"D The Chou-Fasman parameter of the coil conformation (Charton-Charton, 1983)",T,0.2295992523431778
+RICJ880110,group-12,"D Relative preference value at C5 (Richardson-Richardson, 1988)",T,0.2793765068054199
+CHAM830106,group-12,"D The number of bonds in the longest chain (Charton-Charton, 1983)",T,0.11858340352773665
+RICJ880112,group-12,"D Relative preference value at C3 (Richardson-Richardson, 1988)",T,0.8802217841148376
+CHAM830104,group-12,"D The number of atoms in the side chain labelled 2+1 (Charton-Charton, 1983)",F,0.00011079057003371419
+EISD860102,group-12,"D Atom-based hydrophobic moment (Eisenberg-McLachlan, 1986)",F,1.4382975678017829e-05
+HOPA770101,group-12,"D Hydration number (Hopfinger, 1971), Cited by Charton-Charton (1982)",F,0.00045752816367894417
+ISOY800104,group-12,"D Normalized relative frequency of bend R (Isogai et al., 1980)",F,0.00010453239519847556
+DAYM780201,group-12,"D Relative mutability (Dayhoff et al., 1978b)",T,0.5126197934150696
+AURR980120,group-12,"D Normalized positional residue frequency at helix termini C4' (Aurora-Rose,",T,0.3537074029445648
+AVBF000105,group-12,"D Slopes tripeptide, FDPB VFF noside (Avbelj, 2000)",T,0.14433176815509796
+NAKH900108,group-12,"D Normalized composition from fungi and plant (Nakashima et al., 1990)",T,0.12778440117836
+PRAM820101,group-13,"D Intercept in regression analysis (Prabhakaran-Ponnuswamy, 1982)",T,0.96440190076828
+KARS160121,group-13,D Weighted average eigenvalue based on the atomic numbers,F,0.030110539868474007
+OOBM850101,group-13,"D Optimized beta-structure-coil equilibrium constant (Oobatake et al., 1985)",T,0.4279555976390839
+ROSM880102,group-13,"D Side chain hydropathy, corrected for solvation (Roseman, 1988)",T,0.2496898025274277
+JOND920102,group-13,"D Relative mutability (Jones et al., 1992)",T,0.3331368565559387
+WOLS870102,group-13,"D Principal property value z2 (Wold et al., 1987)",T,0.5601615309715271
+PUNT030102,group-13,D Knowledge-based membrane-propensity scale from 3D_Helix in MPtopo databases,T,0.4671697020530701
+ZIMJ680104,group-13,"D Isoelectric point (Zimmerman et al., 1968)",F,0.0010435126023367047
+GEOR030105,group-14,D Linker propensity from small dataset (linker length is less than six,T,0.7462515830993652
+MEEJ800102,group-14,"D Retention coefficient in HPLC, pH2.1 (Meek, 1980)",T,0.14133866131305695
+QIAN880137,group-14,"D Weights for coil at the window position of 4 (Qian-Sejnowski, 1988)",F,0.037685610353946686
+SNEP660101,group-14,"D Principal component I (Sneath, 1966)",T,0.6962021589279175
+ARGP820103,group-15,"D Membrane-buried preference parameters (Argos et al., 1982)",F,0.008977531455457209
+ARGP820102,group-15,"D Signal sequence helical potential (Argos et al., 1982)",F,0.014140542596578596
+ANDN920101,group-16,"D alpha-CH chemical shifts (Andersen et al., 1992)",T,0.0941619873046875

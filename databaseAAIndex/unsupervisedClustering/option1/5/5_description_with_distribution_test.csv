@@ -1,0 +1,98 @@
+idProperty,Description,status_distribution,p_value
+BEGF750103,"D Conformational parameter of beta-turn (Beghin-Dirkx, 1975)",F,0.028190886601805687
+CHAM830101,"D The Chou-Fasman parameter of the coil conformation (Charton-Charton, 1983)",T,0.2295992523431778
+CHAM830107,"D A parameter of charge transfer capability (Charton-Charton, 1983)",F,2.8887450298498147e-07
+CHOC760102,"D Residue accessible surface area in folded protein (Chothia, 1976)",F,0.04258113354444504
+CHOP780101,"D Normalized frequency of beta-turn (Chou-Fasman, 1978a)",T,0.08181548118591309
+CHOP780203,"D Normalized frequency of beta-turn (Chou-Fasman, 1978b)",T,0.08181548118591309
+CHOP780204,"D Normalized frequency of N-terminal helix (Chou-Fasman, 1978b)",F,0.0005532702198252082
+CHOP780206,"D Normalized frequency of N-terminal non helical region (Chou-Fasman, 1978b)",T,0.8505362868309021
+CHOP780207,"D Normalized frequency of C-terminal non helical region (Chou-Fasman, 1978b)",T,0.5939069390296936
+CHOP780210,"D Normalized frequency of N-terminal non beta region (Chou-Fasman, 1978b)",T,0.5307129621505737
+CHOP780211,"D Normalized frequency of C-terminal non beta region (Chou-Fasman, 1978b)",T,0.159223735332489
+CHOP780212,"D Frequency of the 1st residue in turn (Chou-Fasman, 1978b)",F,0.015487371012568476
+CHOP780214,"D Frequency of the 3rd residue in turn (Chou-Fasman, 1978b)",F,0.04665203019976616
+CHOP780215,"D Frequency of the 4th residue in turn (Chou-Fasman, 1978b)",F,0.01871007494628429
+CHOP780216,"D Normalized frequency of the 2nd and 3rd residues in turn (Chou-Fasman, 1978b)",T,0.24204912781715396
+CRAJ730103,"D Normalized frequency of turn (Crawford et al., 1973)",T,0.17471995949745178
+DAYM780101,"D Amino acid composition (Dayhoff et al., 1978a)",T,0.8572523593902588
+FAUJ880108,"D Localized electrical effect (Fauchere et al., 1988)",F,0.03344177454710007
+FAUJ880110,"D Number of full nonbonding orbitals (Fauchere et al., 1988)",F,0.0006399525445885956
+FAUJ880112,"D Negative charge (Fauchere et al., 1988)",F,1.8460101003370252e-08
+FINA910101,"D Helix initiation parameter at posision i-1 (Finkelstein et al., 1991)",F,4.5830372982891276e-05
+GEIM800108,"D Aperiodic indices (Geisow-Roberts, 1980)",F,0.029983069747686383
+GEIM800109,"D Aperiodic indices for alpha-proteins (Geisow-Roberts, 1980)",T,0.6196981072425842
+GEIM800111,"D Aperiodic indices for alpha/beta-proteins (Geisow-Roberts, 1980)",T,0.26756900548934937
+GRAR740101,"D Composition (Grantham, 1974)",F,0.0023874598555266857
+HOPA770101,"D Hydration number (Hopfinger, 1971), Cited by Charton-Charton (1982)",F,0.00045752816367894417
+ISOY800103,"D Normalized relative frequency of bend (Isogai et al., 1980)",T,0.5281752347946167
+ISOY800105,"D Normalized relative frequency of bend S (Isogai et al., 1980)",F,0.011504278518259524
+ISOY800107,"D Normalized relative frequency of double bend (Isogai et al., 1980)",T,0.15031133592128754
+ISOY800108,"D Normalized relative frequency of coil (Isogai et al., 1980)",F,1.7495747670182027e-05
+JANJ780101,"D Average accessible surface area (Janin et al., 1978)",T,0.07615004479885101
+JANJ780103,"D Percentage of exposed residues (Janin et al., 1978)",T,0.12217212468385695
+JOND920101,"D Relative frequency of occurrence (Jones et al., 1992)",T,0.9221678376197816
+JUKT750101,"D Amino acid distribution (Jukes et al., 1975)",T,0.6904933452606201
+JUNJ780101,"D Sequence frequency (Jungck, 1978)",T,0.6947500705718994
+KRIW710101,"D Side chain interaction parameter (Krigbaum-Rubin, 1971)",T,0.4882609844207764
+KRIW790101,"D Side chain interaction parameter (Krigbaum-Komoriya, 1979)",T,0.2412329465150833
+KRIW790102,"D Fraction of site occupied by water (Krigbaum-Komoriya, 1979)",T,0.4274488389492035
+LEVM780103,"D Normalized frequency of reverse turn, with weights (Levitt, 1978)",T,0.27743399143218994
+LEVM780106,"D Normalized frequency of reverse turn, unweighted (Levitt, 1978)",T,0.09806741029024124
+LEWP710101,"D Frequency of occurrence in beta-bends (Lewis et al., 1971)",T,0.344185084104538
+MAXF760103,"D Normalized frequency of zeta R (Maxfield-Scheraga, 1976)",F,0.0005225290078669786
+MAXF760104,"D Normalized frequency of left-handed alpha-helix (Maxfield-Scheraga, 1976)",F,6.9950333454471556e-06
+MAXF760105,"D Normalized frequency of zeta L (Maxfield-Scheraga, 1976)",F,1.5122283002710901e-05
+NAGK730103,"D Normalized frequency of coil (Nagano, 1973)",F,0.02083473838865757
+NAKH900101,"D AA composition of total proteins (Nakashima et al., 1990)",T,0.8851825594902039
+NAKH920101,"D AA composition of CYT of single-spanning proteins (Nakashima-Nishikawa, 1992)",T,0.32603734731674194
+NAKH920102,"D AA composition of CYT2 of single-spanning proteins (Nakashima-Nishikawa,",T,0.7589014172554016
+NAKH920103,"D AA composition of EXT of single-spanning proteins (Nakashima-Nishikawa, 1992)",T,0.6764287948608398
+NAKH920104,"D AA composition of EXT2 of single-spanning proteins (Nakashima-Nishikawa,",T,0.6914465427398682
+NAKH920106,"D AA composition of CYT of multi-spanning proteins (Nakashima-Nishikawa, 1992)",T,0.5157756805419922
+NAKH920107,"D AA composition of EXT of multi-spanning proteins (Nakashima-Nishikawa, 1992)",T,0.3866168558597565
+OOBM850102,"D Optimized propensity to form reverse turn (Oobatake et al., 1985)",F,0.00010658290557330474
+OOBM850105,"D Optimized side chain interaction parameter (Oobatake et al., 1985)",T,0.5998100638389587
+PALJ810105,"D Normalized frequency of turn from LG (Palau et al., 1981)",T,0.19010747969150546
+PALJ810106,"D Normalized frequency of turn from CF (Palau et al., 1981)",F,0.017837010324001312
+PALJ810113,"D Normalized frequency of turn in all-alpha class (Palau et al., 1981)",T,0.05501885712146759
+PALJ810115,"D Normalized frequency of turn in alpha+beta class (Palau et al., 1981)",T,0.5108196735382079
+PALJ810116,"D Normalized frequency of turn in alpha/beta class (Palau et al., 1981)",T,0.2171156704425812
+PRAM900104,"D Relative frequency in reverse-turn (Prabhakaran, 1990)",T,0.31834444403648376
+RACS770103,"D Side chain orientational preference (Rackovsky-Scheraga, 1977)",F,0.017139645293354988
+RACS820103,"D Average relative fractional occurrence in AL(i) (Rackovsky-Scheraga, 1982)",F,0.0018797052325680848
+RACS820104,"D Average relative fractional occurrence in EL(i) (Rackovsky-Scheraga, 1982)",F,0.0007512899464927614
+RACS820106,"D Average relative fractional occurrence in ER(i) (Rackovsky-Scheraga, 1982)",F,0.004586461465805769
+RACS820107,"D Average relative fractional occurrence in A0(i-1) (Rackovsky-Scheraga, 1982)",T,0.3229169249534607
+RACS820109,"D Average relative fractional occurrence in AL(i-1) (Rackovsky-Scheraga, 1982)",F,1.0182719961449037e-05
+RACS820113,"D Value of theta(i) (Rackovsky-Scheraga, 1982)",T,0.050638571381568916
+RICJ880101,"D Relative preference value at N"" (Richardson-Richardson, 1988)",T,0.7397494912147522
+RICJ880102,"D Relative preference value at N' (Richardson-Richardson, 1988)",T,0.7397494912147522
+RICJ880103,"D Relative preference value at N-cap (Richardson-Richardson, 1988)",F,0.001526626059785485
+RICJ880105,"D Relative preference value at N2 (Richardson-Richardson, 1988)",F,0.005551657173782587
+RICJ880106,"D Relative preference value at N3 (Richardson-Richardson, 1988)",F,0.0002633615513332188
+RICJ880115,"D Relative preference value at C-cap (Richardson-Richardson, 1988)",F,2.674495590326842e-05
+TANS770105,"D Normalized frequency of chain reversal S (Tanaka-Scheraga, 1977)",T,0.3244723081588745
+TANS770107,"D Normalized frequency of left-handed helix (Tanaka-Scheraga, 1977)",F,0.0005030122702009977
+TANS770108,"D Normalized frequency of zeta R (Tanaka-Scheraga, 1977)",T,0.099142424762249
+TANS770109,"D Normalized frequency of coil (Tanaka-Scheraga, 1977)",F,0.0010882968781515958
+TANS770110,"D Normalized frequency of chain reversal (Tanaka-Scheraga, 1977)",T,0.4541578888893128
+VELV850101,"D Electron-ion interaction potential (Veljkovic et al., 1985)",F,0.049839138984680176
+AURR980104,"D Normalized positional residue frequency at helix termini N'(Aurora-Rose,",T,0.32821157574653625
+AURR980105,"D Normalized positional residue frequency at helix termini Nc (Aurora-Rose,",T,0.6366086006164551
+AURR980106,"D Normalized positional residue frequency at helix termini N1 (Aurora-Rose,",F,0.02065239101648331
+AURR980107,"D Normalized positional residue frequency at helix termini N2 (Aurora-Rose,",F,0.029647232964634895
+AURR980117,"D Normalized positional residue frequency at helix termini C' (Aurora-Rose,",F,0.00020563809084706008
+MONM990101,"D Turn propensity scale for transmembrane helices (Monne et al., 1999)",F,0.00038861957727931434
+MONM990201,"D Averaged turn propensities in a transmembrane helix (Monne et al., 1999)",F,0.03718805685639381
+CEDJ970101,D Composition of amino acids in extracellular proteins (percent) (Cedano et,T,0.7778775095939636
+CEDJ970102,"D Composition of amino acids in anchored proteins (percent) (Cedano et al.,",T,0.835941731929779
+CEDJ970104,D Composition of amino acids in intracellular proteins (percent) (Cedano et,T,0.6720965504646301
+CEDJ970105,"D Composition of amino acids in nuclear proteins (percent) (Cedano et al.,",T,0.3685904443264008
+FUKS010101,D Surface composition of amino acids in intracellular proteins of thermophiles,F,0.0048851342871785155
+FUKS010102,D Surface composition of amino acids in intracellular proteins of mesophiles,T,0.4717563390731812
+FUKS010103,D Surface composition of amino acids in extracellular proteins of mesophiles,F,0.02722744457423687
+FUKS010104,D Surface composition of amino acids in nuclear proteins (percent),T,0.2285001128911972
+FUKS010111,D Entire chain composition of amino acids in extracellular proteins of,T,0.6972249150276184
+FUKS010112,D Entire chain compositino of amino acids in nuclear proteins (percent),T,0.6768540143966675
+COSI940101,"D Electron-ion interaction potential values (Cosic, 1994)",F,0.04975339025259018

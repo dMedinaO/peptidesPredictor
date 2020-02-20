@@ -1,0 +1,23 @@
+idProperty,Description,status_distribution,p_value
+EISD860102,"D Atom-based hydrophobic moment (Eisenberg-McLachlan, 1986)",F,1.4382975678017829e-05
+FASG760103,"D Optical rotation (Fasman, 1976)",F,0.0039539700374007225
+FAUJ880109,"D Number of hydrogen bond donors (Fauchere et al., 1988)",F,0.00033649019314907486
+FAUJ880111,"D Positive charge (Fauchere et al., 1988)",F,8.316843747024906e-08
+QIAN880101,"D Weights for alpha-helix at the window position of -6 (Qian-Sejnowski, 1988)",T,0.4955504238605499
+QIAN880102,"D Weights for alpha-helix at the window position of -5 (Qian-Sejnowski, 1988)",T,0.5340391993522644
+QIAN880103,"D Weights for alpha-helix at the window position of -4 (Qian-Sejnowski, 1988)",T,0.16980618238449094
+QIAN880104,"D Weights for alpha-helix at the window position of -3 (Qian-Sejnowski, 1988)",T,0.4586922526359558
+QIAN880105,"D Weights for alpha-helix at the window position of -2 (Qian-Sejnowski, 1988)",T,0.20893186330795288
+QIAN880106,"D Weights for alpha-helix at the window position of -1 (Qian-Sejnowski, 1988)",T,0.1415722817182541
+QIAN880107,"D Weights for alpha-helix at the window position of 0 (Qian-Sejnowski, 1988)",T,0.6632338762283325
+QIAN880108,"D Weights for alpha-helix at the window position of 1 (Qian-Sejnowski, 1988)",F,0.003649151185527444
+QIAN880109,"D Weights for alpha-helix at the window position of 2 (Qian-Sejnowski, 1988)",F,0.01549903117120266
+QIAN880110,"D Weights for alpha-helix at the window position of 3 (Qian-Sejnowski, 1988)",T,0.19003313779830933
+QIAN880111,"D Weights for alpha-helix at the window position of 4 (Qian-Sejnowski, 1988)",T,0.4734543263912201
+ROBB760101,"D Information measure for alpha-helix (Robson-Suzuki, 1976)",T,0.7248573303222656
+ROBB760103,"D Information measure for middle helix (Robson-Suzuki, 1976)",F,0.004735141992568971
+ROBB760104,"D Information measure for C-terminal helix (Robson-Suzuki, 1976)",F,0.00038663114537484944
+WOLS870102,"D Principal property value z2 (Wold et al., 1987)",T,0.5601615309715271
+ZIMJ680103,"D Polarity (Zimmerman et al., 1968)",F,2.231645567007945e-06
+BLAM930101,"D Alpha helix propensity of position 44 in T4 lysozyme (Blaber et al., 1993)",F,3.7071245628794713e-07
+KARS160120,D Weighted minimum eigenvalue based on the atomic numbers,F,5.171449402041618e-07
